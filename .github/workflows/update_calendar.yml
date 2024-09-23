@@ -32,4 +32,4 @@ jobs:
         with:
           commit_message: 'Automated update of events_calendar.ics'
           file_pattern: events_calendar.ics
-          branch: main
+          branch: master
