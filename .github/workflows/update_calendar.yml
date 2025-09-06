@@ -30,9 +30,11 @@ jobs:
         run: |
           python Eventer.py  # Replace with your script's filename if different
 
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: 'Automated update of events_calendar.ics'
-          file_pattern: events_calendar.ics
-          branch: master
+      - name: Commit & push results
+        run: |
+          git config user.name "Lex"
+          git config user.email "139653968+Lex13K@users.noreply.github.com"
+
+          git add -A
+          git commit -m "Automated update of events_calendar.ics $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+          git push
