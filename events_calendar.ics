@@ -2,2789 +2,2995 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:CAD  Foreign Securities Purchases\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:CAD  Gov Council Member Rogers Speaks\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251017T123000Z
-SUMMARY:Foreign Securities Purchases
-UID:50ced94e-6bd5-4e5e-9706-6be81295e0de@50ce.org
+DTSTART:20251014T141500Z
+SUMMARY:Gov Council Member Rogers Speaks
+UID:bdbdf1bd-255d-4e9a-9f02-08349caebbce@bdbd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:EUR  French Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  German Buba President Nagel Speaks\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251024T071500Z
-SUMMARY:French Flash Manufacturing PMI
-UID:95620336-99b1-4388-858f-49c45543296d@9562.org
+DTSTART:20251017T114500Z
+SUMMARY:German Buba President Nagel Speaks
+UID:c8902070-f842-4d2d-a9c2-5185d416dcc8@c890.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GBP  Construction PMI\nPrevious: 45.5\nForecast: 46.1\nActual: 
+DESCRIPTION:EUR  Final Core CPI y/y\nPrevious: 2.3%\nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251006T083000Z
-SUMMARY:Construction PMI
-UID:9878663c-7786-4b6c-8b61-7043e580493a@9878.org
+DTSTART:20251017T080000Z
+SUMMARY:Final Core CPI y/y
+UID:50aefad0-6286-49f5-a252-73376646f393@50ae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Personal Spending m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:AUD  MI Leading Index m/m\nPrevious: 0.0%\nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251031T123000Z
-SUMMARY:Personal Spending m/m
-UID:b29c23bb-6a8d-40c2-bfef-79a20ab4cec6@b29c.org
+DTSTART:20251014T223000Z
+SUMMARY:MI Leading Index m/m
+UID:c417a04a-0413-44a9-9e25-4421c7a4eb1f@c417.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GBP  BOE Gov Bailey Speaks\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  French Flash Services PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251006T173000Z
-SUMMARY:BOE Gov Bailey Speaks
-UID:a1fc8aa0-d577-4368-9db5-fd2932bbe043@a1fc.org
+DTSTART:20251024T061500Z
+SUMMARY:French Flash Services PMI
+UID:4a672dd5-354c-4741-a0d9-958b36f5dd53@4a67.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: 233K\nActual: 
-DURATION:PT1H
-DTSTART:20251009T123000Z
-SUMMARY:Unemployment Claims
-UID:d7e20b54-a791-44d6-b794-afe70a227cc9@d7e2.org
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:USD  Business Inventories m/m\nPrevious: 0.2%\nForecast: 0.1%\nActual: 
+SUMMARY:Business Inventories m/m
+UID:4cee0c88-39c2-46ff-9717-c2e72073f3e9@4cee.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:EUR  German Final CPI m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:USD  Pending Home Sales m/m\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251014T060000Z
-SUMMARY:German Final CPI m/m
-UID:2d7c3310-d45b-454b-9147-a782ca67ddbd@2d7c.org
+DTSTART:20251029T130000Z
+SUMMARY:Pending Home Sales m/m
+UID:c2f309e4-c450-4778-aa73-c20638e88acd@c2f3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:AUD  CPI y/y\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:CAD  BOC Monetary Policy Report\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251029T003000Z
-SUMMARY:CPI y/y
-UID:e0be62f5-51a5-466e-bc46-1ec28689a9ad@e0be.org
+DTSTART:20251029T124500Z
+SUMMARY:BOC Monetary Policy Report
+UID:49caa91b-bd1a-4291-8a49-30a037a20125@49ca.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Core Durable Goods Orders m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  Italian Manufacturing PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251027T123000Z
-SUMMARY:Core Durable Goods Orders m/m
-UID:b2dc9b9a-9fb6-47d0-9c05-e7523c814dc5@b2dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Daly Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251010T014000Z
-SUMMARY:FOMC Member Daly Speaks
-UID:3bf13a87-24c8-4f78-826d-bc7646ed7b35@3bf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  NFIB Small Business Index\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T100000Z
-SUMMARY:NFIB Small Business Index
-UID:ff4c785d-c876-44f7-9128-f612cb518041@ff4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Construction Spending m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T150000Z
-SUMMARY:Construction Spending m/m
-UID:e25ed6d2-ebbf-419a-b4e9-ffe4037beba7@e25e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Nationwide HPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T070000Z
-SUMMARY:Nationwide HPI m/m
-UID:b353634a-0d1c-4549-88c3-80e690c76239@b353.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  RICS House Price Balance\nPrevious: -19%\nForecast: -18%\nActual: 
-DURATION:PT1H
-DTSTART:20251008T230100Z
-SUMMARY:RICS House Price Balance
-UID:b7938685-44e4-45f0-819b-beb4a120d4cd@b793.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Final CPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T064500Z
-SUMMARY:French Final CPI m/m
-UID:45759c9a-4af0-4fae-b76f-34dfac5841e8@4575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Retail Sales m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251027T070000Z
-SUMMARY:German Retail Sales m/m
-UID:976a2d55-989e-4d4c-8dcd-66cc34d98d4f@976a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Household Spending y/y\nPrevious: 1.4%\nForecast: 1.4%\nActual: 
-DURATION:PT1H
-DTSTART:20251006T233000Z
-SUMMARY:Household Spending y/y
-UID:ffabfcd8-674e-4813-926c-db43d651c962@ffab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Richmond Manufacturing Index\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251028T140000Z
-SUMMARY:Richmond Manufacturing Index
-UID:53f6ff02-5457-4658-8a39-33b8289a259a@53f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  ANZ Business Confidence\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T000000Z
-SUMMARY:ANZ Business Confidence
-UID:6da3d580-1c02-4c19-ad6d-fc0723581140@6da3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:USD  Loan Officer Survey\nPrevious: \nForecast: \nActual: 
-SUMMARY:Loan Officer Survey
-UID:679d3ece-b267-4988-bc23-be951926b95d@679d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Retail Sales y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T235000Z
-SUMMARY:Retail Sales y/y
-UID:e37171c5-2d51-448d-bec1-665fc6f4d5ff@e371.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Employment Cost Index q/q\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T123000Z
-SUMMARY:Employment Cost Index q/q
-UID:c8f1e872-8598-403e-b029-b2009ed66f1b@c8f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  RatingDog Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T014500Z
-SUMMARY:RatingDog Services PMI
-UID:ccd9c595-4d13-4f02-9f10-4e496e7ae85e@ccd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Private Loans y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251027T090000Z
-SUMMARY:Private Loans y/y
-UID:0b003073-0bd2-4315-ab92-189de1bb05fa@0b00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Empire State Manufacturing Index\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T123000Z
-SUMMARY:Empire State Manufacturing Index
-UID:6d7f17a4-ea65-47a9-83c3-2b2fa2fa06f4@6d7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  New Home Prices m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T013000Z
-SUMMARY:New Home Prices m/m
-UID:61f41081-bd7a-4053-91b7-7bf7e32708ed@61f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T123000Z
-SUMMARY:Unemployment Claims
-UID:72e0bb7f-df4a-4fce-a2cc-7144ff6f0fcc@72e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  ANZ Job Advertisements m/m\nPrevious: 0.1%\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T003000Z
-SUMMARY:ANZ Job Advertisements m/m
-UID:44afb681-4194-4b9b-b629-b27ae2341480@44af.org
+DTSTART:20251103T074500Z
+SUMMARY:Italian Manufacturing PMI
+UID:72f8a8d1-4d0d-4587-a663-6e311f3ecfdc@72f8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:AUD  Monetary Policy Meeting Minutes\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251014T003000Z
+DTSTART:20251013T233000Z
 SUMMARY:Monetary Policy Meeting Minutes
-UID:d9d370dd-b386-4335-9b49-7443457bbd1c@d9d3.org
+UID:19089a1d-c7d9-40b4-bee8-c25e504adcd4@1908.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:NZD  FPI m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:USD  FOMC Member Waller Speaks\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251015T214500Z
-SUMMARY:FPI m/m
-UID:f1a9226d-13de-4b74-afca-2cf3ed384195@f1a9.org
+DTSTART:20251016T120000Z
+SUMMARY:FOMC Member Waller Speaks
+UID:6d3470f0-bf20-4b0c-a137-86fb4b0c1b12@6d34.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:EUR  ECB Press Conference\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:CNY  Retail Sales y/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251030T134500Z
-SUMMARY:ECB Press Conference
-UID:443fd2cf-96ec-4066-a484-a19ec6a02e7e@443f.org
+DTSTART:20251020T010000Z
+SUMMARY:Retail Sales y/y
+UID:89b0809c-0673-4ea1-946b-69c64733270d@89b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  ANZ Commodity Prices m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T230000Z
+SUMMARY:ANZ Commodity Prices m/m
+UID:f37d5ae5-1f13-469d-a81a-aa4facd2b817@f37d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Employment Change\nPrevious: -5.4K\nForecast: 20.0K\nActual: 
+DURATION:PT1H
+DTSTART:20251015T233000Z
+SUMMARY:Employment Change
+UID:12419930-2691-4185-9c7e-468c89452877@1241.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:JPY  Bank Holiday\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
 DTSTART:20251102T040000Z
 SUMMARY:Bank Holiday
-UID:ed1001e7-4cf9-4cc1-84a5-dece6a3f9c13@ed10.org
+UID:6fa5ba6c-06cf-4295-893c-7c3402bada12@6fa5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:JPY  Housing Starts y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T050000Z
-SUMMARY:Housing Starts y/y
-UID:0383eb1b-d44c-4fbd-8418-80e06aab65b6@0383.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Current Account\nPrevious: 1.88T\nForecast: 2.39T\nActual: 
-DURATION:PT1H
-DTSTART:20251007T235000Z
-SUMMARY:Current Account
-UID:faa2cf62-d294-4bcc-9f2c-54a4f074dc5f@faa2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Cash Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T033000Z
-SUMMARY:Cash Rate
-UID:7cfe12fb-ae82-40e9-a67d-053781efd0cc@7cfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Flash Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T083000Z
-SUMMARY:Flash Services PMI
-UID:bb3cab93-f89b-48e4-b4a3-684e6a0f8ce6@bb3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  New Home Sales\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T140000Z
-SUMMARY:New Home Sales
-UID:5abf5519-8cae-401c-9bb4-e10c4dcfd030@5abf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Household Spending m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T003000Z
-SUMMARY:Household Spending m/m
-UID:6730ec82-de4a-446a-83df-4292a33c270f@6730.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Spanish Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T081500Z
-SUMMARY:Spanish Services PMI
-UID:0f02d30b-16e2-442d-aeeb-b6940d1a9c41@0f02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  API Weekly Statistical Bulletin\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T203000Z
-SUMMARY:API Weekly Statistical Bulletin
-UID:d130986a-fe1b-4cd1-bdd4-f7a9f4d5e8aa@d130.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251021T060000Z
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:CNY  Trade Balance\nPrevious: \nForecast: \nActual: 
 SUMMARY:Trade Balance
-UID:c348c4a7-aac7-4df6-a67f-2cab333e8d62@c348.org
+UID:a0538780-73c8-407a-917b-eaf6c0257770@a053.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:NZD  CPI q/q\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:JPY  Household Spending y/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251019T214500Z
-SUMMARY:CPI q/q
-UID:0afb27be-3079-4c8d-81c5-876885ef1797@0afb.org
+DTSTART:20251106T223000Z
+SUMMARY:Household Spending y/y
+UID:1083ba6c-9fe2-46ad-89e4-3215241f8413@1083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  CPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T063000Z
+SUMMARY:CPI m/m
+UID:58b42c26-f55c-4087-a43b-7f24a7f3c61f@58b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:USD  Retail Sales m/m\nPrevious: 0.6%\nForecast: 0.4%\nActual: 
+SUMMARY:Retail Sales m/m
+UID:52d42a81-d4d1-4493-b7ea-4708b685910a@52d4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:NZD  Employment Change q/q\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251104T214500Z
+DTSTART:20251104T204500Z
 SUMMARY:Employment Change q/q
-UID:6bbdc5b2-91bf-4c5e-8e1b-cd30f6c99872@6bbd.org
+UID:6ff04d74-0887-479b-b753-017a566d24c4@6ff0.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-DESCRIPTION:JPY  BOJ Press Conference\nPrevious: \nForecast: \nActual: 
-SUMMARY:BOJ Press Conference
-UID:deef864c-2c3b-4d95-94f7-b232415648ce@deef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:NZD  Credit Card Spending y/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251026T020000Z
-SUMMARY:Daylight Saving Time Shift
-UID:9718498d-5724-42f0-b4d3-fbf34e474838@9718.org
+DTSTART:20251021T010000Z
+SUMMARY:Credit Card Spending y/y
+UID:8ad71da7-6c84-485e-8dc2-50a16adeffbb@8ad7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Revised UoM Inflation Expectations\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:JPY  30-y Bond Auction\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251024T140000Z
-SUMMARY:Revised UoM Inflation Expectations
-UID:165283cb-7e94-4fee-8c87-3c9d886cf2c9@1652.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-DESCRIPTION:NZD  GDT Price Index\nPrevious: \nForecast: \nActual: 
-SUMMARY:GDT Price Index
-UID:42173945-4855-46ff-8c54-a3ccea8d9821@4217.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Mortgage Approvals\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T093000Z
-SUMMARY:Mortgage Approvals
-UID:42adc30c-c222-424f-b2e5-4669d0130462@42ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251009
-DESCRIPTION:USD  Factory Orders m/m\nPrevious: -1.3%\nForecast: 1.4%\nActual: 
-SUMMARY:Factory Orders m/m
-UID:bbfc3658-dc27-4c81-9ce3-287b49dda20d@bbfc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:GBP  30-y Bond Auction\nPrevious: \nForecast: \nActual: 
+DTSTART:20251107T023500Z
 SUMMARY:30-y Bond Auction
-UID:af24ad96-00d0-4bf0-9ebe-566889e75e91@af24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Personal Income m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T123000Z
-SUMMARY:Personal Income m/m
-UID:0ff3b67b-2b8d-4bb3-8da2-70c6197b2c0d@0ff3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  ECB President Lagarde Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T161000Z
-SUMMARY:ECB President Lagarde Speaks
-UID:b7e5cccb-f968-4f40-ac3c-72e8a9f07063@b7e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Average Earnings Index 3m/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T060000Z
-SUMMARY:Average Earnings Index 3m/y
-UID:4c2a8507-7cde-43e8-9143-5dc0e450db24@4c2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  BusinessNZ Services Index\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251012T213000Z
-SUMMARY:BusinessNZ Services Index
-UID:986a3140-97be-4e44-bf28-c96c10712505@986a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Natural Gas Storage\nPrevious: 53B\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T143000Z
-SUMMARY:Natural Gas Storage
-UID:e376dadd-4a49-450d-9869-5538132e2776@e376.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T090000Z
-SUMMARY:Trade Balance
-UID:7a27f34c-8388-4b36-adbd-3fd47a14c428@7a27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  Visitor Arrivals m/m\nPrevious: 2.6%\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251012T214500Z
-SUMMARY:Visitor Arrivals m/m
-UID:51443329-f6ab-4418-b542-b84c0073d622@5144.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Trade Balance\nPrevious: -5.6B\nForecast: -5.2B\nActual: 
-DURATION:PT1H
-DTSTART:20251007T064500Z
-SUMMARY:French Trade Balance
-UID:17a453d5-eded-4876-a4fa-63cd8da39656@17a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  BOJ Core CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251021T050000Z
-SUMMARY:BOJ Core CPI y/y
-UID:6a8e1404-6fde-441b-8fa4-d0ae3e24b3d5@6a8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Factory Orders m/m\nPrevious: -2.9%\nForecast: 1.3%\nActual: 
-DURATION:PT1H
-DTSTART:20251007T060000Z
-SUMMARY:German Factory Orders m/m
-UID:7bb97ae5-d012-4e3c-a58d-0cd7819c618e@7bb9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251104
-DESCRIPTION:USD  RCM/TIPP Economic Optimism\nPrevious: \nForecast: \nActual: 
-SUMMARY:RCM/TIPP Economic Optimism
-UID:2ddc9cf3-8e66-4552-97e2-e3b43bb4cbb8@2ddc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Federal Funds Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T180000Z
-SUMMARY:Federal Funds Rate
-UID:6fc1dccf-3e45-49c1-8ef6-756e1f386cc8@6fc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  ECB Monetary Policy Meeting Accounts\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T113000Z
-SUMMARY:ECB Monetary Policy Meeting Accounts
-UID:feaf3be0-dbe6-4b38-8593-3ce8d5028a8e@feaf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:EUR  German 30-y Bond Auction\nPrevious: \nForecast: \nActual: 
-SUMMARY:German 30-y Bond Auction
-UID:ba3300bc-02af-4751-89fc-d903d0e65355@ba33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Prelim UoM Inflation Expectations\nPrevious: 4.7%\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251010T140000Z
-SUMMARY:Prelim UoM Inflation Expectations
-UID:d7993e2e-228d-4b64-a2a5-47c2cf531e47@d799.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German ifo Business Climate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251027T090000Z
-SUMMARY:German ifo Business Climate
-UID:fa7445b0-bf2e-4a78-802d-351f45700fdc@fa74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  PPI q/q\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T003000Z
-SUMMARY:PPI q/q
-UID:997b079c-a261-4db5-810c-b7f7689aa22b@997b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  NBS Press Conference\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T020000Z
-SUMMARY:NBS Press Conference
-UID:eb0ac05d-634e-473f-81d8-b7866e7ed2f9@eb0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Core Retail Sales m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T123000Z
-SUMMARY:Core Retail Sales m/m
-UID:f3380e69-a7c1-4e7a-8b34-a3a3d7b2bbb9@f338.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251009
-DESCRIPTION:CNY  New Loans\nPrevious: 590B\nForecast: \nActual: 
-SUMMARY:New Loans
-UID:bb67bc2b-70bc-435c-bebf-1af62d97aa01@bb67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Buba President Nagel Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T160000Z
-SUMMARY:German Buba President Nagel Speaks
-UID:8af9d0b1-a9ac-40c3-8089-e75bf3202036@8af9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Core PPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T123000Z
-SUMMARY:Core PPI m/m
-UID:4da1a0b6-981a-49ff-bb0b-9ccfdb41177e@4da1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Crude Oil Inventories\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T160000Z
-SUMMARY:Crude Oil Inventories
-UID:05fef050-6a0b-47ee-9bbb-2b5793e04803@05fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251023T123000Z
-SUMMARY:Unemployment Claims
-UID:ffe2b4dd-91ea-40d9-8fe7-488f8f3d2630@ffe2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251102T070000Z
-SUMMARY:Daylight Saving Time Shift
-UID:3ecb0b44-beae-48ad-9737-4d98af1b6cfd@3ecb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  RBNZ Financial Stability Report\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T200000Z
-SUMMARY:RBNZ Financial Stability Report
-UID:fe4179c8-1f7d-4eaa-943c-e066b21313a6@fe41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  CPI Flash Estimate y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T100000Z
-SUMMARY:CPI Flash Estimate y/y
-UID:7b49d66d-27ca-4395-abe3-5f1e224fea2d@7b49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Retail Sales m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T123000Z
-SUMMARY:Retail Sales m/m
-UID:b8ac2439-8ba0-4787-a8dd-f20ed75d91f9@b8ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-DESCRIPTION:NZD  NZIER Business Confidence\nPrevious: \nForecast: \nActual: 
-SUMMARY:NZIER Business Confidence
-UID:ec4b5043-74e4-4f09-90cb-9ec0a6ec9a0b@ec4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Advance GDP q/q\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T123000Z
-SUMMARY:Advance GDP q/q
-UID:f854ad77-36bb-4038-889b-f112e0dd67db@f854.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Consumer Confidence\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251023T140000Z
-SUMMARY:Consumer Confidence
-UID:1b800f0a-01ba-48a1-8911-507a835ade86@1b80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  SECO Consumer Climate\nPrevious: -40\nForecast: -38\nActual: 
-DURATION:PT1H
-DTSTART:20251010T070000Z
-SUMMARY:SECO Consumer Climate
-UID:5939c4c0-5604-4129-a262-13bd18a70a99@5939.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Final Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T093000Z
-SUMMARY:Final Services PMI
-UID:965844a7-f1bd-43bf-8952-a39e669f9c55@9658.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  ISM Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T150000Z
-SUMMARY:ISM Services PMI
-UID:35809163-9d7b-4abb-9b0f-c5fd3bc7705d@3580.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  API Weekly Statistical Bulletin\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T203000Z
-SUMMARY:API Weekly Statistical Bulletin
-UID:391e23a0-e85b-4a2c-ac60-d7af5c3f2b73@391e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Spanish Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T081500Z
-SUMMARY:Spanish Manufacturing PMI
-UID:47cb74fa-a0cb-4a92-a03a-b94c454b7aa5@47cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T123000Z
-SUMMARY:CPI y/y
-UID:2d0ff922-2b8e-47c8-b3c4-ba6a0208d64d@2d0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  30-y Bond Auction\nPrevious: 4.65|2.4\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T170100Z
-SUMMARY:30-y Bond Auction
-UID:9b39bec6-f0e2-45b3-aae7-6493273abd56@9b39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251026T020000Z
-SUMMARY:Daylight Saving Time Shift
-UID:16ffa883-8d6d-41a2-884f-23aff704b437@16ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Natural Gas Storage\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T143000Z
-SUMMARY:Natural Gas Storage
-UID:f75e86da-7308-4556-9e42-726a1f07fa6f@f75e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  RatingDog Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T014500Z
-SUMMARY:RatingDog Manufacturing PMI
-UID:fe05cd85-ab09-4287-84e8-3a26217b4c75@fe05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Revised Industrial Production m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T043000Z
-SUMMARY:Revised Industrial Production m/m
-UID:29b333a6-c02f-40e6-a3ca-9100589f57e4@29b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Unemployment Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T060000Z
-SUMMARY:Unemployment Rate
-UID:ad99cd3a-21cf-4492-8a2d-7452ea29894c@ad99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Consumer Spending m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T063000Z
-SUMMARY:French Consumer Spending m/m
-UID:64ad2347-61b0-441a-8a42-75813013e2d9@64ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Bank Holiday\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251013T040000Z
-SUMMARY:Bank Holiday
-UID:b0ee6537-db63-4d36-b869-e447b9988401@b0ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Meeting Minutes\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251008T180000Z
-SUMMARY:FOMC Meeting Minutes
-UID:0c70c08c-eaa4-4f92-88b6-a1de2c5dab96@0c70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  ZEW Economic Sentiment\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T090000Z
-SUMMARY:ZEW Economic Sentiment
-UID:37217fa9-78b9-44c0-a302-d67b00d74724@3721.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:USD  Average Hourly Earnings m/m\nPrevious: 0.3%\nForecast: 0.3%\nActual: 
-SUMMARY:Average Hourly Earnings m/m
-UID:27dad07e-8839-4e7e-a1ce-09f7794be444@27da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:CNY  Foreign Direct Investment ytd/y\nPrevious: \nForecast: \nActual: 
-SUMMARY:Foreign Direct Investment ytd/y
-UID:f06bc55b-2021-4f93-88ef-fb53748b998d@f06b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Prelim Machine Tool Orders y/y\nPrevious: 8.5%\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T060000Z
-SUMMARY:Prelim Machine Tool Orders y/y
-UID:12778740-50cf-4bc1-bf51-dffae0a06a6f@1277.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Fed Chair Powell Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T123000Z
-SUMMARY:Fed Chair Powell Speaks
-UID:fbfe4dba-bdfe-411e-835b-d34577b51bf1@fbfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-DESCRIPTION:JPY  BOJ Policy Rate\nPrevious: \nForecast: \nActual: 
-SUMMARY:BOJ Policy Rate
-UID:6ec582e9-76fc-44e6-8dc5-a17d6c433510@6ec5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Retail Sales m/m\nPrevious: -0.5%\nForecast: 0.1%\nActual: 
-DURATION:PT1H
-DTSTART:20251006T090000Z
-SUMMARY:Retail Sales m/m
-UID:9e5e957a-755d-4654-8b32-f797ff0db609@9e5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  PPI Output m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251022T060000Z
-SUMMARY:PPI Output m/m
-UID:5faa9663-51ec-438d-b398-7b502ba46273@5faa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Building Approvals m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T003000Z
-SUMMARY:Building Approvals m/m
-UID:d7f387e5-40fb-41d6-be12-a83f8234dae0@d7f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Core CPI Flash Estimate y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T100000Z
-SUMMARY:Core CPI Flash Estimate y/y
-UID:339dc29a-25ff-420d-b0f6-f90c9b29d782@339d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  UBS Economic Expectations\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T090000Z
-SUMMARY:UBS Economic Expectations
-UID:7f91bcd3-779e-4464-ae61-4e719e8fc161@7f91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  Retail Sales y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T073000Z
-SUMMARY:Retail Sales y/y
-UID:a95e4bca-bff5-4d1d-ade7-900c928f33f5@a95e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T133000Z
-SUMMARY:Trade Balance
-UID:9c879544-c2ed-4761-8cce-61e0404a3320@9c87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Sentix Investor Confidence\nPrevious: -9.2\nForecast: -7.5\nActual: 
-DURATION:PT1H
-DTSTART:20251006T083000Z
-SUMMARY:Sentix Investor Confidence
-UID:f02e287e-eaaf-4a49-b8f4-ff340801d6ac@f02e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Consumer Confidence\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T050000Z
-SUMMARY:Consumer Confidence
-UID:48db5746-5112-4648-8056-dcba62ede2eb@48db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  Industrial Production y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T020000Z
-SUMMARY:Industrial Production y/y
-UID:de240339-5247-484e-84b9-be098848dd86@de24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  PPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T013000Z
-SUMMARY:PPI y/y
-UID:0bb68078-8a2f-4a66-93b6-5ddabdbd64e4@0bb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Core Machinery Orders m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T235000Z
-SUMMARY:Core Machinery Orders m/m
-UID:90135b1d-651c-4c46-a94b-da2a78fc5d06@9013.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  Labor Cost Index q/q\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T214500Z
-SUMMARY:Labor Cost Index q/q
-UID:ef1f7124-9d93-40f8-9a7b-5750b17884f3@ef1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  MI Inflation Expectations\nPrevious: 4.7%\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T000000Z
-SUMMARY:MI Inflation Expectations
-UID:4e07303e-17d3-498a-a096-c8c3edcc20e2@4e07.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:USD  Non-Farm Employment Change\nPrevious: 22K\nForecast: 52K\nActual: 
-SUMMARY:Non-Farm Employment Change
-UID:5b07eadb-a908-49a2-9000-288db48e2399@5b07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  PPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T123000Z
-SUMMARY:PPI m/m
-UID:aa7c3012-470e-4957-93a5-bab65212453b@aa7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Spanish Unemployment Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T070000Z
-SUMMARY:Spanish Unemployment Rate
-UID:4ea431bf-091b-4f1f-84fe-c46a3f8ebd5d@4ea4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Belgian NBB Business Climate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T130000Z
-SUMMARY:Belgian NBB Business Climate
-UID:115a2578-0135-411b-b9f2-2a51ea3d262e@115a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  GfK Consumer Confidence\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251023T230100Z
-SUMMARY:GfK Consumer Confidence
-UID:20c8d6e4-1a6f-4d8c-9597-06916f1e172f@20c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251009
-DESCRIPTION:USD  Unemployment Claims\nPrevious: 218K\nForecast: 225K\nActual: 
-SUMMARY:Unemployment Claims
-UID:993a7e09-638d-42ef-9d79-cddf02720441@993a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  RBA Press Conference\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T043000Z
-SUMMARY:RBA Press Conference
-UID:83274aeb-e601-4bdc-b450-4007eaf5a75a@8327.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251018T040000Z
-SUMMARY:IMF Meetings
-UID:e92b9050-1c1f-4602-ad20-6f929a2a53af@e92b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Retail Sales m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T060000Z
-SUMMARY:Retail Sales m/m
-UID:53015cbd-4915-4b64-a2ca-4457cd819c18@5301.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Industrial Production m/m\nPrevious: 1.3%\nForecast: -1.0%\nActual: 
-DURATION:PT1H
-DTSTART:20251008T060000Z
-SUMMARY:German Industrial Production m/m
-UID:efeb3418-17d6-4063-81cc-033f00417d94@efeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  BOC Rate Statement\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T134500Z
-SUMMARY:BOC Rate Statement
-UID:6b1a3b1f-67cf-46d6-998f-984afcfc7ef3@6b1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German WPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T060000Z
-SUMMARY:German WPI m/m
-UID:dab30ebf-d083-47bc-8ddb-486ab06557bb@dab3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Factory Orders m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T070000Z
-SUMMARY:German Factory Orders m/m
-UID:c568d6fb-81aa-41f4-ac1b-a7516e7e3deb@c568.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Gov Council Member Rogers Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T120000Z
-SUMMARY:Gov Council Member Rogers Speaks
-UID:df81302b-1e0f-4643-8483-7c91c1ec52d3@df81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  API Weekly Statistical Bulletin\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251021T203000Z
-SUMMARY:API Weekly Statistical Bulletin
-UID:7e2d770a-c741-4253-a333-51ff80d5c3cd@7e2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  GDP m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T060000Z
-SUMMARY:GDP m/m
-UID:731489f3-c747-4ad8-8a78-af8933301979@7314.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Bostic Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T140000Z
-SUMMARY:FOMC Member Bostic Speaks
-UID:7844b267-1e1c-47ae-ba65-77a3906856e1@7844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Final Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T085000Z
-SUMMARY:French Final Services PMI
-UID:0b831c97-9fc5-42b9-92a1-83525257f246@0b83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Unemployment Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T003000Z
-SUMMARY:Unemployment Rate
-UID:66850fae-6d33-4e68-b738-dd927b578d80@6685.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Spanish Flash CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T080000Z
-SUMMARY:Spanish Flash CPI y/y
-UID:27b0601d-e487-43d2-865c-1254e13155a1@27b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Unemployment Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T100000Z
-SUMMARY:Unemployment Rate
-UID:0eb6f896-b107-408b-becf-7665b401d137@0eb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T013000Z
-SUMMARY:Manufacturing PMI
-UID:e10efef4-b877-45e4-90cd-b0a130ba3225@e10e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251007
-DESCRIPTION:JPY  BOJ Gov Ueda Speaks\nPrevious: \nForecast: \nActual: 
-SUMMARY:BOJ Gov Ueda Speaks
-UID:5834b5ab-2035-4de0-819e-091990385274@5834.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Core PCE Price Index m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T123000Z
-SUMMARY:Core PCE Price Index m/m
-UID:55c43734-eb23-4d55-bb6b-4f62454ea6ed@55c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Miran Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T143000Z
-SUMMARY:FOMC Member Miran Speaks
-UID:15c1a1f2-67bb-4b99-afea-06fbbed4ca61@15c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T003000Z
-SUMMARY:Final Manufacturing PMI
-UID:67f14f51-6832-4e56-b6c3-2c6bbf7235c8@67f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251022T060000Z
-SUMMARY:CPI y/y
-UID:253bc338-d819-41be-a15b-2e1d9ede0b56@253b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  Foreign Currency Reserves\nPrevious: 715B\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T070000Z
-SUMMARY:Foreign Currency Reserves
-UID:7b4cc9e6-cb22-40f3-8356-2e28b525a21a@7b4c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251008
-DESCRIPTION:USD  Construction Spending m/m\nPrevious: -0.1%\nForecast: -0.1%\nActual: 
-SUMMARY:Construction Spending m/m
-UID:af81ab25-76ba-4b3c-9b4c-64fc393a96d2@af81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  RPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251022T060000Z
-SUMMARY:RPI y/y
-UID:9c784e1f-6721-466f-a4d2-d1f61dd7d66b@9c78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Claimant Count Change\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T060000Z
-SUMMARY:Claimant Count Change
-UID:b49180c1-66df-4db7-aa9e-d54ec616e10f@b491.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Average Cash Earnings y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T233000Z
-SUMMARY:Average Cash Earnings y/y
-UID:424d29dc-4952-431a-8fa1-1ad87dbc073e@424d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  ANZ Job Advertisements m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T003000Z
-SUMMARY:ANZ Job Advertisements m/m
-UID:231d720e-b0b3-4adb-9d8e-65267e9c0209@231d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Philly Fed Manufacturing Index\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T123000Z
-SUMMARY:Philly Fed Manufacturing Index
-UID:b20f1e42-faf8-4662-ad62-86015291bb6f@b20f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251007
-DESCRIPTION:USD  RCM/TIPP Economic Optimism\nPrevious: 48.7\nForecast: 49.3\nActual: 
-SUMMARY:RCM/TIPP Economic Optimism
-UID:a27185c2-465e-4da7-88aa-3019004242db@a271.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Gov Budget Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T074500Z
-SUMMARY:French Gov Budget Balance
-UID:c20160a4-b34e-4bb1-b027-96c57a0f055e@c201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Beige Book\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T180000Z
-SUMMARY:Beige Book
-UID:c096687f-fc58-47f5-85fc-9cb0334bd936@c096.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Durable Goods Orders m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251027T123000Z
-SUMMARY:Durable Goods Orders m/m
-UID:be16e7d3-2dee-4a67-a9c6-df0d9c4ac66e@be16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Statement\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T180000Z
-SUMMARY:FOMC Statement
-UID:2af36386-2274-4f2b-b118-43c8e8903811@2af3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251026T020000Z
-SUMMARY:Daylight Saving Time Shift
-UID:50cc79ed-c045-4907-8c20-b032bec5621b@50cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Net Lending to Individuals m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T093000Z
-SUMMARY:Net Lending to Individuals m/m
-UID:ec1b395d-53f3-429f-acb6-f36f6d3104aa@ec1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Prelim CPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T074500Z
-SUMMARY:French Prelim CPI m/m
-UID:6138284b-c3c8-4096-93f5-aa03cad32df9@6138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251102T070000Z
-SUMMARY:Daylight Saving Time Shift
-UID:15a0d952-0dee-43d5-941c-dfecf1a6a0ef@15a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Schmid Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251006T210000Z
-SUMMARY:FOMC Member Schmid Speaks
-UID:677c4ba3-c6dc-4469-8330-fb12307df105@677c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T040000Z
-SUMMARY:IMF Meetings
-UID:a35f4dae-39bb-46bb-986a-bee77c28e38f@a35f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Barr Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251008T133000Z
-SUMMARY:FOMC Member Barr Speaks
-UID:74ba5750-acf2-4848-bec1-80b971018921@74ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Index of Services 3m/3m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T060000Z
-SUMMARY:Index of Services 3m/3m
-UID:740f8a3a-bb46-40da-ab8f-849aef9de2b4@740f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  CB Leading Index m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T143000Z
-SUMMARY:CB Leading Index m/m
-UID:b3d99c1b-9717-41a2-9dbf-bc063d725f6a@b3d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  HPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251028T130000Z
-SUMMARY:HPI m/m
-UID:329ca653-eea1-4344-a0d2-06a2a50a4249@329c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Housing Starts\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T121500Z
-SUMMARY:Housing Starts
-UID:45f0044c-d0eb-4962-9ec8-59d286489a91@45f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Flash Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T071500Z
-SUMMARY:French Flash Services PMI
-UID:19fa04eb-bb2b-4a56-9cce-ea328a982385@19fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Italian 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T040000Z
-SUMMARY:Italian 10-y Bond Auction
-UID:525fdccd-82fe-48d5-8374-5b9d956c236a@525f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Unemployment Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T233000Z
-SUMMARY:Unemployment Rate
-UID:ce178198-0b8a-4dda-9f5d-4c40469c8167@ce17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Import Prices m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251017T123000Z
-SUMMARY:Import Prices m/m
-UID:d81f477d-7438-4792-ad3e-fc5da1b516f8@d81f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  CB Leading Index m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T140000Z
-SUMMARY:CB Leading Index m/m
-UID:44d0f829-e09d-4c91-a07a-c06998f2f9cd@44d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Trade Balance\nPrevious: 14.7B\nForecast: 15.1B\nActual: 
-DURATION:PT1H
-DTSTART:20251009T060000Z
-SUMMARY:German Trade Balance
-UID:703a4797-2f6e-4253-bb41-f5841708d8c8@703a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  Bank Holiday\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T040000Z
-SUMMARY:Bank Holiday
-UID:299acfb8-37cc-4a94-aa71-ced361f4eeaf@299a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T083000Z
-SUMMARY:Manufacturing PMI
-UID:e3fb6e9d-275f-4c01-8d1f-beb9466787ae@e3fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Bowman Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T140500Z
-SUMMARY:FOMC Member Bowman Speaks
-UID:65f5640c-e530-4a7f-8f2c-bd28448a6401@65f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Bank Holiday\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251013T040000Z
-SUMMARY:Bank Holiday
-UID:f7ea3701-c215-4f4f-a13f-5505038348c0@f7ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  5-y Loan Prime Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T010000Z
-SUMMARY:5-y Loan Prime Rate
-UID:8f84f0c7-4cb4-4679-b3d3-7061935e17f7@8f84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251019T040000Z
-SUMMARY:IMF Meetings
-UID:889cf94d-35b3-4384-9f22-53c26c0417e0@889c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Italian Industrial Production m/m\nPrevious: 0.4%\nForecast: -0.3%\nActual: 
-DURATION:PT1H
-DTSTART:20251010T080000Z
-SUMMARY:Italian Industrial Production m/m
-UID:5214d321-bfff-4091-a7d2-2897fab3fe0f@5214.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Industrial Production m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T074500Z
-SUMMARY:French Industrial Production m/m
-UID:c780faac-5457-4e09-960b-658e4ec47f1f@c780.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Current Account\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T080000Z
-SUMMARY:Current Account
-UID:c0e9b810-041d-4263-a1ed-3e7c72f1deef@c0e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Final Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T090000Z
-SUMMARY:Final Services PMI
-UID:050fd68c-0a5d-4d6c-a6a4-3693b9cd4cbe@050f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  ECB President Lagarde Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251006T170000Z
-SUMMARY:ECB President Lagarde Speaks
-UID:b8900d4a-efcf-48b8-89f5-062a50680f6e@b890.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  BOC Business Outlook Survey\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T143000Z
-SUMMARY:BOC Business Outlook Survey
-UID:f8981b36-f0ee-4b9f-b1a6-c7c85066aee1@f898.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  CPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T123000Z
-SUMMARY:CPI m/m
-UID:e3992d93-b264-4270-b2c7-411f1ab8e2c5@e399.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Median CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251021T123000Z
-SUMMARY:Median CPI y/y
-UID:0e61aad2-d58f-4d75-b103-093285ab7393@0e61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  GDP q/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T020000Z
-SUMMARY:GDP q/y
-UID:db9e7f14-f826-47be-b8d1-903f096505e4@db9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Barr Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T170000Z
-SUMMARY:FOMC Member Barr Speaks
-UID:4868d7da-10bb-4994-bdee-be528ff27c63@4868.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Musalem Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251010T170000Z
-SUMMARY:FOMC Member Musalem Speaks
-UID:1bdeb134-5c4e-42d8-8579-1b8ee3b50a88@1bde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Italian Monthly Unemployment Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T100000Z
-SUMMARY:Italian Monthly Unemployment Rate
-UID:f6898feb-0155-488f-9cdc-46a055ef6629@f689.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Final Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T085500Z
-SUMMARY:German Final Services PMI
-UID:abb0f940-97e6-46da-83ef-bba152e2a78e@abb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Italian Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T084500Z
-SUMMARY:Italian Services PMI
-UID:19eb388b-8865-4c7a-879b-da96be989dbd@19eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Spanish Flash GDP q/q\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T080000Z
-SUMMARY:Spanish Flash GDP q/q
-UID:c28a2d25-1e91-41d4-9f24-cec736f8f36e@c28a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Consumer Credit m/m\nPrevious: 16.0B\nForecast: 14.9B\nActual: 
-DURATION:PT1H
-DTSTART:20251007T190000Z
-SUMMARY:Consumer Credit m/m
-UID:b460c4f8-9d2e-4576-9196-16dc2a148ba1@b460.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Factory Orders m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T150000Z
-SUMMARY:Factory Orders m/m
-UID:03ebdab7-bf46-44fa-89e6-a6b4850a5c73@03eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Goods Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T123000Z
-SUMMARY:Goods Trade Balance
-UID:454f74ab-ac47-45c2-b3ea-279ec53077ea@454f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-DESCRIPTION:JPY  Monetary Policy Statement\nPrevious: \nForecast: \nActual: 
-SUMMARY:Monetary Policy Statement
-UID:59b8a17f-c4de-4724-85e7-32605e2ac6b9@59b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Westpac Consumer Sentiment\nPrevious: -3.1%\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251006T233000Z
-SUMMARY:Westpac Consumer Sentiment
-UID:77e69148-913d-4956-a94c-d09037f55258@77e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  BRC Retail Sales Monitor y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251013T230100Z
-SUMMARY:BRC Retail Sales Monitor y/y
-UID:7b2dc63b-a388-4246-8021-c44bc7acc6a0@7b2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Housing Starts\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251017T123000Z
-SUMMARY:Housing Starts
-UID:8b753fd3-ec23-4817-855d-089b804b6ac7@8b75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Flash Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251023T220000Z
-SUMMARY:Flash Services PMI
-UID:00321c1e-50e6-4780-ac65-d7dc499a152a@0032.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Capacity Utilization Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251017T131500Z
-SUMMARY:Capacity Utilization Rate
-UID:9649f970-00a1-4eed-8e46-5623b012db35@9649.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251021T235000Z
-SUMMARY:Trade Balance
-UID:0f0b093e-8aaf-4f6f-a486-5ea82dd9b6c3@0f0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Prelim Flash GDP q/q\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T100000Z
-SUMMARY:Prelim Flash GDP q/q
-UID:3346e9b8-dda4-44f1-8857-d4c8e8c1d5ed@3346.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Press Conference\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T183000Z
-SUMMARY:FOMC Press Conference
-UID:7955f4f6-2373-4361-9163-c7572f6bfcfa@7955.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  Fixed Asset Investment ytd/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T020000Z
-SUMMARY:Fixed Asset Investment ytd/y
-UID:0ca82d0e-e3d9-4197-b2df-60eead6e4f99@0ca8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Final CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251017T090000Z
-SUMMARY:Final CPI y/y
-UID:ac2cb0b9-6368-4e92-b99b-7e5ca7840cbe@ac2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  RBNZ Rate Statement\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251008T010000Z
-SUMMARY:RBNZ Rate Statement
-UID:5bc6e6fc-c6e0-4050-9fe5-22235d0763af@5bc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Building Permits m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T123000Z
-SUMMARY:Building Permits m/m
-UID:0b68d2f2-1779-4c8a-a6dc-dcee0b0e3063@0b68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  National Core CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251023T233000Z
-SUMMARY:National Core CPI y/y
-UID:981a8616-7a33-4816-944e-eb69e4a1b306@981a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Monetary Policy Statement\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T131500Z
-SUMMARY:Monetary Policy Statement
-UID:041142dc-708f-44b2-9ce0-b5115e6e9e77@0411.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Spanish Unemployment Change\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T080000Z
-SUMMARY:Spanish Unemployment Change
-UID:7edd83b3-1625-42c1-8a15-57f9a62ee6ee@7edd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Halifax HPI m/m\nPrevious: 0.3%\nForecast: 0.4%\nActual: 
-DURATION:PT1H
-DTSTART:20251007T060000Z
-SUMMARY:Halifax HPI m/m
-UID:3a8ba0ab-e34c-455c-802c-6ce8b280ee88@3a8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  GDP m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T123000Z
-SUMMARY:GDP m/m
-UID:1d04f376-54e8-448c-a953-33b8967a0301@1d04.org
+UID:b6cc4366-8114-48c5-b1e4-e3f81480fc7a@b6cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:EUR  German Flash Services PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251024T073000Z
+DTSTART:20251024T063000Z
 SUMMARY:German Flash Services PMI
-UID:9bf0b3b7-8723-458f-839d-e8f7443fba46@9bf0.org
+UID:6ed0a8ba-d022-4d37-8e0f-e058cb61b0c6@6ed0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Trade Balance\nPrevious: -78.3B\nForecast: -61.2B\nActual: 
+DESCRIPTION:EUR  Spanish Services PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251007T123000Z
-SUMMARY:Trade Balance
-UID:74515a90-c88b-4d15-b310-df6f6729366b@7451.org
+DTSTART:20251105T071500Z
+SUMMARY:Spanish Services PMI
+UID:0af68cb4-ccae-41a1-85fb-aae1fbd66e8d@0af6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GBP  BOE Credit Conditions Survey\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:GBP  Average Earnings Index 3m/y\nPrevious: 4.7%\nForecast: 4.7%\nActual: 
 DURATION:PT1H
-DTSTART:20251016T083000Z
-SUMMARY:BOE Credit Conditions Survey
-UID:d6fb1dc3-af7f-4b05-b5d0-7db586c5164a@d6fb.org
+DTSTART:20251014T050000Z
+SUMMARY:Average Earnings Index 3m/y
+UID:b771d082-e33d-4c12-b682-091e00644bf6@b771.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Advance GDP Price Index q/q\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:CNY  Manufacturing PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251030T123000Z
-SUMMARY:Advance GDP Price Index q/q
-UID:f2016891-84a4-420f-8cbf-8a5de0ab52fb@f201.org
+DTSTART:20251031T003000Z
+SUMMARY:Manufacturing PMI
+UID:57a53257-ec0e-44b5-a884-92b0bf4bee7f@57a5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:EUR  Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:CAD  Building Permits m/m\nPrevious: -0.1%\nForecast: 0.2%\nActual: 
 DURATION:PT1H
-DTSTART:20251024T080000Z
-SUMMARY:Flash Manufacturing PMI
-UID:73e3f9bd-a69d-4262-9adb-d203070ea918@73e3.org
+DTSTART:20251014T113000Z
+SUMMARY:Building Permits m/m
+UID:a86bd1fa-0c9d-4d62-9a75-a0c9f80c7740@a86b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:AUD  RBA Bulletin\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:USD  Crude Oil Inventories\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251023T003000Z
-SUMMARY:RBA Bulletin
-UID:6c203803-327d-4331-8300-4b462f63cddc@6c20.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251013
-DESCRIPTION:EUR  German 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
-SUMMARY:German 10-y Bond Auction
-UID:5cadb442-50fe-40e0-a0ac-5c1ef0e3a020@5cad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251007
-DESCRIPTION:NZD  GDT Price Index\nPrevious: -0.8%\nForecast: \nActual: 
-SUMMARY:GDT Price Index
-UID:c50a79e9-e65b-44f3-a614-72ce35072ddd@c50a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Final Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T144500Z
-SUMMARY:Final Services PMI
-UID:dd96ae2a-a8ad-45b9-9ce1-3072dd003ab4@dd96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  Bank Holiday\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251026T040000Z
-SUMMARY:Bank Holiday
-UID:907bce8d-164c-4c6c-aa63-19d5daa8987d@907b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Crude Oil Inventories\nPrevious: 1.8M\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251008T143000Z
+DTSTART:20251029T133000Z
 SUMMARY:Crude Oil Inventories
-UID:71ff0c19-2fff-440f-8920-a2bd43fb397a@71ff.org
+UID:af27d4fb-f4b0-4489-a117-e8adac757e7f@af27.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CAD  Overnight Rate\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:USD  ADP Non-Farm Employment Change\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251029T134500Z
-SUMMARY:Overnight Rate
-UID:cb42021e-a5cb-400b-ba7e-390c2a0b327c@cb42.org
+DTSTART:20251105T121500Z
+SUMMARY:ADP Non-Farm Employment Change
+UID:583f72c3-8c39-44f9-9285-2cc34e48999d@583f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  10-y Bond Auction\nPrevious: 4.03|2.7\nForecast: \nActual: 
+DESCRIPTION:USD  10-y Bond Auction\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251008T170100Z
+DTSTART:20251105T170100Z
 SUMMARY:10-y Bond Auction
-UID:76ad7f19-8793-4e5b-a6ba-3042645ebb59@76ad.org
+UID:6e3f4e06-8771-4179-96c1-49ac8aead08a@6e3f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CAD  Manufacturing Sales m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T123000Z
-SUMMARY:Manufacturing Sales m/m
-UID:201cedc1-d759-4bd7-96ea-43c132845f97@201c.org
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:EUR  Spanish 10-y Bond Auction\nPrevious: 3.23|1.9\nForecast: \nActual: 
+SUMMARY:Spanish 10-y Bond Auction
+UID:15ab8e85-e77e-4328-8f3f-07ca241a07c6@15ab.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CHF  KOF Economic Barometer\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:CNY  Non-Manufacturing PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251030T080000Z
-SUMMARY:KOF Economic Barometer
-UID:6ef5841f-2a9d-42ef-b7f7-323de36cec30@6ef5.org
+DTSTART:20251031T003000Z
+SUMMARY:Non-Manufacturing PMI
+UID:8c2e31fd-fff9-4fb9-ad61-f8c2093d44e1@8c2e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:AUD  NAB Business Confidence\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:JPY  PPI y/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251014T003000Z
-SUMMARY:NAB Business Confidence
-UID:cecde459-6c23-4a09-ad2d-6fd71528cd21@cecd.org
+DTSTART:20251112T225000Z
+SUMMARY:PPI y/y
+UID:084d7b23-6387-447b-a053-63a453925626@084d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Trade Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T064500Z
+SUMMARY:French Trade Balance
+UID:1e4210fd-68a8-40e4-8019-2a45cc33ff80@1e42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Median CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251021T113000Z
+SUMMARY:Median CPI y/y
+UID:4d7b530c-a105-43d3-844a-de91c5e1ed79@4d7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Core Retail Sales m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T113000Z
+SUMMARY:Core Retail Sales m/m
+UID:d843f8dd-7cfb-4c6a-b37b-722f8d5f545e@d843.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  5-y Loan Prime Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T000000Z
+SUMMARY:5-y Loan Prime Rate
+UID:a075b39b-f618-4483-9d4e-b7f42bdce3b9@a075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Beige Book\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T170000Z
+SUMMARY:Beige Book
+UID:4c6c7709-f209-4330-bbf5-dc802281284e@4c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  API Weekly Statistical Bulletin\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T203000Z
+SUMMARY:API Weekly Statistical Bulletin
+UID:a4882b71-93b5-4373-97cc-b7cfadd27bdf@a488.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Public Sector Net Borrowing\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251021T050000Z
+SUMMARY:Public Sector Net Borrowing
+UID:922f7fe1-3d35-4777-b399-c8d7546f9fb9@922f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Retail Sales m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T050000Z
+SUMMARY:Retail Sales m/m
+UID:c712dc49-c6d5-40e2-b908-1f42fd04dee4@c712.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  CPI q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251028T233000Z
+SUMMARY:CPI q/q
+UID:526ac460-cde7-46a5-9921-242f62811f20@526a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Miran Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T120000Z
+SUMMARY:FOMC Member Miran Speaks
+UID:4c5b1d48-35d1-407b-8832-4f23eb324887@4c5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  NAHB Housing Market Index\nPrevious: 32\nForecast: 33\nActual: 
+DURATION:PT1H
+DTSTART:20251016T130000Z
+SUMMARY:NAHB Housing Market Index
+UID:9ee80eec-5846-4a18-97f9-5c67a3a0c77a@9ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Final Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T080000Z
+SUMMARY:Final Services PMI
+UID:7f2cfc87-ef5d-4df3-a714-de81561470de@7f2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Final Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T083000Z
+SUMMARY:Final Services PMI
+UID:86073c03-8cbb-4293-bf7f-1a583424030a@8607.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  10-y Bond Auction\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T023500Z
+SUMMARY:10-y Bond Auction
+UID:6b0f803a-d03c-4f68-b9cf-b3d3ce543d37@6b0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:USD  Wards Total Vehicle Sales\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
 DTSTART:20251103T050000Z
 SUMMARY:Wards Total Vehicle Sales
-UID:f8413fff-0f9a-4086-ba56-703eef1cf29e@f841.org
+UID:a8dc6f71-4853-4f6a-8082-01b8e7cce046@a8dc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Goolsbee Speaks\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  CPI Flash Estimate y/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251010T134500Z
-SUMMARY:FOMC Member Goolsbee Speaks
-UID:a786b43b-831b-4dd0-9ac5-c13fde563871@a786.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  10-y Bond Auction\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T033500Z
-SUMMARY:10-y Bond Auction
-UID:b22336db-9936-4f79-9a8c-5de25abe473d@b223.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  CPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T073000Z
-SUMMARY:CPI m/m
-UID:52607c10-b550-4578-b414-0ee688e8f50a@5260.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  MPC Member Pill Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251008T150000Z
-SUMMARY:MPC Member Pill Speaks
-UID:e3227f61-cb31-4561-91e1-86489f9d6f8b@e322.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Italian Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T084500Z
-SUMMARY:Italian Manufacturing PMI
-UID:257d17e8-a1d4-4c19-a67e-c324f54e29ea@257d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Employment Change\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T003000Z
-SUMMARY:Employment Change
-UID:1d54d8cf-6b52-4309-bbb7-037ae2e34425@1d54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  BOC Press Conference\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T143000Z
-SUMMARY:BOC Press Conference
-UID:65236061-b4a8-42af-b020-c72295a39110@6523.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T214500Z
-SUMMARY:Trade Balance
-UID:f5da2e91-5941-4283-b825-6881e47d63b3@f5da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  SECO Economic Forecasts\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T070000Z
-SUMMARY:SECO Economic Forecasts
-UID:94b12735-f64c-40fb-a471-9523fd9cbae5@94b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  HPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251022T083000Z
-SUMMARY:HPI y/y
-UID:443b4645-371c-490e-ae73-54ffd033bf32@443b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Building Permits\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251017T123000Z
-SUMMARY:Building Permits
-UID:ac6528b8-23ef-428a-be58-bfe24929a429@ac65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Tertiary Industry Activity m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T043000Z
-SUMMARY:Tertiary Industry Activity m/m
-UID:d686833d-02e3-4e33-bdde-6be86d60a2b2@d686.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  ECOFIN Meetings\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251010T040000Z
-SUMMARY:ECOFIN Meetings
-UID:afb1956d-c534-4b92-bcb5-ed6487c136d7@afb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  SPPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251026T235000Z
-SUMMARY:SPPI y/y
-UID:7e09dbe4-5b6c-47ac-98af-2601d9e649f4@7e09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Core CPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251021T123000Z
-SUMMARY:Core CPI m/m
-UID:543e836b-9fed-4ef1-a1f1-8aecbdca5ea5@543e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  MI Inflation Gauge m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T000000Z
-SUMMARY:MI Inflation Gauge m/m
-UID:502c6197-26da-4ad6-9a5f-a6e7cd987601@502c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Import Prices m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T060000Z
-SUMMARY:German Import Prices m/m
-UID:09110250-bc41-48c4-992a-8f91d91544b6@0911.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  NHPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T123000Z
-SUMMARY:NHPI m/m
-UID:93b35690-0be5-47a3-8118-b0cc1bfb6c83@93b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German PPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T060000Z
-SUMMARY:German PPI m/m
-UID:6c634533-e2b4-47a7-a7da-647530a6d65d@6c63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  Retail Sales y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T020000Z
-SUMMARY:Retail Sales y/y
-UID:0791945d-6040-48fe-bda7-a64701978609@0791.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Economy Watchers Sentiment\nPrevious: 46.7\nForecast: 47.0\nActual: 
-DURATION:PT1H
-DTSTART:20251008T050000Z
-SUMMARY:Economy Watchers Sentiment
-UID:05313c62-a665-4eb9-9501-20af0ea4c6a2@0531.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Prelim Wholesale Inventories m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T123000Z
-SUMMARY:Prelim Wholesale Inventories m/m
-UID:323b2d09-ed05-40ff-b1f3-3e7299b26862@323b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251104
-DESCRIPTION:NZD  GDT Price Index\nPrevious: \nForecast: \nActual: 
-SUMMARY:GDT Price Index
-UID:a33450f3-673f-4b29-9aff-db617e46f7be@a334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Eurogroup Meetings\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T040000Z
-SUMMARY:Eurogroup Meetings
-UID:0c93c059-2334-4675-a724-ba1ba894aef0@0c93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  RMPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T123000Z
-SUMMARY:RMPI m/m
-UID:eb3fb3a6-4730-496e-93a5-db49eb83d49f@eb3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  M2 Money Stock y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251013T235000Z
-SUMMARY:M2 Money Stock y/y
-UID:2f7431f7-1f1d-4498-a22d-67b525431be3@2f74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T134500Z
-SUMMARY:Flash Manufacturing PMI
-UID:9ee68c17-2160-40f2-8f18-489f51cbaf5c@9ee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T040000Z
-SUMMARY:IMF Meetings
-UID:5b377498-3e9e-4b2c-8ea4-07934a1e4614@5b37.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251012
-DESCRIPTION:CNY  Trade Balance\nPrevious: \nForecast: \nActual: 
-SUMMARY:Trade Balance
-UID:e21b9b92-01c9-40a8-aac4-96612f54c8cb@e21b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Crude Oil Inventories\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251022T143000Z
-SUMMARY:Crude Oil Inventories
-UID:61a2f55a-1343-408a-9eaf-84d5ed9f7f0d@61a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  RBA Rate Statement\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T033000Z
-SUMMARY:RBA Rate Statement
-UID:5cdfc224-555d-4837-b8a8-5f6463a07280@5cdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251012
-DESCRIPTION:CNY  USD-Denominated Trade Balance\nPrevious: \nForecast: \nActual: 
-SUMMARY:USD-Denominated Trade Balance
-UID:de03c50a-6d99-4789-a606-69d3020efcf8@de03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  JOLTS Job Openings\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T150000Z
-SUMMARY:JOLTS Job Openings
-UID:eaeacee0-bcd1-4e3c-b7f4-8a0ea296e331@eaea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T013000Z
-SUMMARY:CPI y/y
-UID:fd049d3e-d50d-462b-adcc-aaa45c2044f4@fd04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  30-y Bond Auction\nPrevious: 3.26|3.3\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T033500Z
-SUMMARY:30-y Bond Auction
-UID:0e87eb8c-651b-42cf-9787-76824e710bc0@0e87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  10-y Bond Auction\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T180100Z
-SUMMARY:10-y Bond Auction
-UID:906296b2-0b81-4f17-872f-7e19545575ba@9062.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German GfK Consumer Climate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251028T070000Z
-SUMMARY:German GfK Consumer Climate
-UID:91d4a9de-d162-4382-a574-68bbcd06fd5b@91d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Import Prices q/q\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T003000Z
-SUMMARY:Import Prices q/q
-UID:1ce29638-1f4d-4358-baae-95cf934bbe05@1ce2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Musalem Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251008T132000Z
-SUMMARY:FOMC Member Musalem Speaks
-UID:624863e9-246f-41db-922a-13d709346867@6248.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251015
-DESCRIPTION:AUD  NAB Quarterly Business Confidence\nPrevious: \nForecast: \nActual: 
-SUMMARY:NAB Quarterly Business Confidence
-UID:3528c61c-27a8-4a50-a9d7-53663a0b446f@3528.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Ivey PMI\nPrevious: 50.1\nForecast: 51.2\nActual: 
-DURATION:PT1H
-DTSTART:20251007T140000Z
-SUMMARY:Ivey PMI
-UID:5f439bb4-2a37-4596-86fa-202c367c811b@5f43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  RBA Annual Report\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251023T043000Z
-SUMMARY:RBA Annual Report
-UID:638b6935-ec8f-4173-bef6-7e6450220059@638b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Main Refinancing Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T131500Z
-SUMMARY:Main Refinancing Rate
-UID:8f038a3e-851c-4d09-95e2-ddf73d1484e1@8f03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  CB Leading Index m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251027T130000Z
-SUMMARY:CB Leading Index m/m
-UID:96da2e04-233b-40a1-87b0-c275d7561e80@96da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Business Inventories m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T140000Z
-SUMMARY:Business Inventories m/m
-UID:c78502ab-83f2-4511-8b5c-d95ba7b3771a@c785.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Italian Prelim CPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T100000Z
-SUMMARY:Italian Prelim CPI m/m
-UID:7da9f732-d5c0-4b15-96b1-77b3322533fe@7da9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Flash GDP q/q\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T063000Z
-SUMMARY:French Flash GDP q/q
-UID:09387ef0-8ade-4d0f-a28a-804529589b9a@0938.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251009
-DESCRIPTION:CNY  M2 Money Supply y/y\nPrevious: 8.8%\nForecast: \nActual: 
-SUMMARY:M2 Money Supply y/y
-UID:8bdf2e1a-1900-427a-a99e-5113475ed123@8bdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  S&P/CS Composite-20 HPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251028T130000Z
-SUMMARY:S&P/CS Composite-20 HPI y/y
-UID:4f5a459f-4621-4b11-9451-835c83560fbe@4f5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T133000Z
-SUMMARY:Trade Balance
-UID:87b2c546-5b43-4b47-9ca1-f60277f079c3@87b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  CPI q/q\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T003000Z
-SUMMARY:CPI q/q
-UID:5068669e-d3df-432a-bbab-1f402a2d2de0@5068.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHF  Unemployment Rate\nPrevious: 2.9%\nForecast: 2.9%\nActual: 
-DURATION:PT1H
-DTSTART:20251006T070000Z
-SUMMARY:Unemployment Rate
-UID:df9e5e33-6ceb-4269-a834-605d59965ea9@df9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Bank Lending y/y\nPrevious: 3.6%\nForecast: 3.7%\nActual: 
-DURATION:PT1H
-DTSTART:20251009T235000Z
-SUMMARY:Bank Lending y/y
-UID:5bc518a7-5a4f-470f-8a6b-e0fba0448e05@5bc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Buba Monthly Report\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251020T100000Z
-SUMMARY:German Buba Monthly Report
-UID:752e9bf6-3546-4e9c-a216-b2016ed3af8d@752e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  BOC Monetary Policy Report\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T134500Z
-SUMMARY:BOC Monetary Policy Report
-UID:05ce6b4a-e1cd-422d-9c3e-f29a8a15affc@05ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Industrial Production m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251017T131500Z
-SUMMARY:Industrial Production m/m
-UID:2721defe-e81d-4afe-8574-2fbabe50427e@2721.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Wholesale Sales m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251015T123000Z
-SUMMARY:Wholesale Sales m/m
-UID:11967757-f8e6-4bc0-ba78-da8e51a38bd2@1196.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Miran Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T200500Z
-SUMMARY:FOMC Member Miran Speaks
-UID:19531449-9e90-4a05-afd0-66bc47767267@1953.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:EUR  French 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
-SUMMARY:French 10-y Bond Auction
-UID:7e49b464-977b-479c-9745-dabb212dbe5b@7e49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Prelim UoM Consumer Sentiment\nPrevious: 55.1\nForecast: 54.6\nActual: 
-DURATION:PT1H
-DTSTART:20251010T140000Z
-SUMMARY:Prelim UoM Consumer Sentiment
-UID:20c494ca-ac03-47a8-8e61-9e6c47a28735@20c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Core CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251022T060000Z
-SUMMARY:Core CPI y/y
-UID:7960c958-2a3f-41bb-930c-2140e25f96db@7960.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  CBI Industrial Order Expectations\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251023T100000Z
-SUMMARY:CBI Industrial Order Expectations
-UID:36843fdd-9fff-4b5c-87b9-d4d07d9fba46@3684.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  BusinessNZ Manufacturing Index\nPrevious: 49.9\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T213000Z
-SUMMARY:BusinessNZ Manufacturing Index
-UID:3ca6c976-6e71-467f-9d38-2399c5180d68@3ca6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  CB Consumer Confidence\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251028T140000Z
-SUMMARY:CB Consumer Confidence
-UID:8841be42-e6de-4bc5-bcee-1b2a5b9b1040@8841.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Barr Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251008T214500Z
-SUMMARY:FOMC Member Barr Speaks
-UID:ea333da2-46e7-44b0-a36a-3dcb5addf30f@ea33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  PPI Input m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251022T060000Z
-SUMMARY:PPI Input m/m
-UID:217b618a-8823-48c6-8d04-f63d52c08910@217b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251023T220000Z
-SUMMARY:Flash Manufacturing PMI
-UID:4eeed833-7268-4a6a-84e2-17dc5a799db6@4eee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German ZEW Economic Sentiment\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T090000Z
-SUMMARY:German ZEW Economic Sentiment
-UID:07412d73-f063-486b-b8fb-e46fe217ad4d@0741.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Goods Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T060000Z
-SUMMARY:Goods Trade Balance
-UID:6294f6bf-6595-4b5a-97b0-f339648c1317@6294.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  Official Cash Rate\nPrevious: 3.00%\nForecast: 2.75%\nActual: 
-DURATION:PT1H
-DTSTART:20251008T010000Z
-SUMMARY:Official Cash Rate
-UID:4a8d85e8-2652-49c7-8b19-5d8d1beff1f1@4a8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Industrial Production m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T060000Z
-SUMMARY:Industrial Production m/m
-UID:ae897eba-84fc-4a26-9a93-2c25ba0010e1@ae89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Italian Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T090000Z
-SUMMARY:Italian Trade Balance
-UID:f1fcfe8a-51ef-46c4-a7e1-887eee3ea1b3@f1fc.org
+DTSTART:20251031T090000Z
+SUMMARY:CPI Flash Estimate y/y
+UID:a9ef14bc-d710-42a7-9169-d4db8e08eb19@a9ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:GBP  BRC Shop Price Index y/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251028T000100Z
+DTSTART:20251027T230100Z
 SUMMARY:BRC Shop Price Index y/y
-UID:7bdde2ce-e7cf-42b6-a6a0-8793303cc9d9@7bdd.org
+UID:00b2ed07-93f9-4a88-b691-d7ac1f3aca8a@00b2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:JPY  Monetary Policy Meeting Minutes\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:CAD  Bank Holiday\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251104T235000Z
-SUMMARY:Monetary Policy Meeting Minutes
-UID:8d91ba20-89db-43c3-b54d-6655c6ffdb3a@8d91.org
+DTSTART:20251111T050000Z
+SUMMARY:Bank Holiday
+UID:177f92c3-eff4-4d99-8ce4-23689700c4f5@177f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CAD  Unemployment Rate\nPrevious: 7.1%\nForecast: 7.2%\nActual: 
+DESCRIPTION:EUR  Industrial Production m/m\nPrevious: 0.3%\nForecast: -1.8%\nActual: 
 DURATION:PT1H
-DTSTART:20251010T123000Z
-SUMMARY:Unemployment Rate
-UID:1ffefd25-52dc-4c4d-ae51-cb2068daa6ee@1ffe.org
+DTSTART:20251015T080000Z
+SUMMARY:Industrial Production m/m
+UID:a1556e9b-0be5-4c1c-baa8-d04942b1012c@a155.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Final Wholesale Inventories m/m\nPrevious: -0.2%\nForecast: -0.2%\nActual: 
+DESCRIPTION:GBP  PPI Input m/m\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251009T140000Z
-SUMMARY:Final Wholesale Inventories m/m
-UID:2a0a190e-9787-4054-ad6e-82fd52828392@2a0a.org
+DTSTART:20251022T050000Z
+SUMMARY:PPI Input m/m
+UID:791ca3a5-c37c-42ee-bd7f-c818aeecbf20@791c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GBP  Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T093000Z
-SUMMARY:Final Manufacturing PMI
-UID:ef08d897-17f4-4519-95c7-5ba43cce2fa6@ef08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:GBP  10-y Bond Auction\nPrevious: \nForecast: \nActual: 
-SUMMARY:10-y Bond Auction
-UID:c61d7f53-15c9-4677-a07e-57aed08beab8@c61d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-DESCRIPTION:GBP  Autumn Forecast Statement\nPrevious: \nForecast: \nActual: 
-SUMMARY:Autumn Forecast Statement
-UID:923932ac-f175-47dc-b3f9-3cebb7eafe36@9239.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  Unemployment Rate\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T214500Z
-SUMMARY:Unemployment Rate
-UID:c2824d0c-531d-4caa-b9fa-2301cf89cea5@c282.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Commodity Prices y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T053000Z
-SUMMARY:Commodity Prices y/y
-UID:59fb5840-e990-45e4-a135-cb15d335fa21@59fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T040000Z
-SUMMARY:IMF Meetings
-UID:bf16d540-6f71-4387-83a5-9ae89d026904@bf16.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-DESCRIPTION:JPY  BOJ Outlook Report\nPrevious: \nForecast: \nActual: 
-SUMMARY:BOJ Outlook Report
-UID:8204e9ad-2f0a-4622-b0c4-3470cba1ea08@8204.org
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:USD  Construction Spending m/m\nPrevious: -0.1%\nForecast: -0.1%\nActual: 
+SUMMARY:Construction Spending m/m
+UID:d8b90165-79eb-4b76-b8dc-4a1c98bc6097@d8b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:USD  Existing Home Sales\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251023T140000Z
+DTSTART:20251023T130000Z
 SUMMARY:Existing Home Sales
-UID:163f1326-e702-4371-9b5b-9774d0482192@163f.org
+UID:99dd3618-4bde-4a34-8ba7-e3a26f3e9890@99dd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CAD  Retail Sales m/m\nPrevious: \nForecast: \nActual: 
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: \nActual: 
+SUMMARY:Unemployment Claims
+UID:c5eb7e45-f108-4410-9d33-53a8e0ddb79b@c5eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Monetary Policy Meeting Minutes\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251023T123000Z
-SUMMARY:Retail Sales m/m
-UID:dfb046c8-783e-4071-b7e2-c5202a086e70@dfb0.org
+DTSTART:20251104T225000Z
+SUMMARY:Monetary Policy Meeting Minutes
+UID:e392709c-e2ac-45cc-be4c-96187ee2028f@e392.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:AUD  Private Sector Credit m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  French Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251031T003000Z
-SUMMARY:Private Sector Credit m/m
-UID:148b3e8d-cf99-46f8-84e7-1e0382b8079b@148b.org
+DTSTART:20251024T061500Z
+SUMMARY:French Flash Manufacturing PMI
+UID:755dcb24-f17e-415c-976b-17bec293a853@755d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GBP  Construction Output m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:USD  Core Durable Goods Orders m/m\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251016T060000Z
-SUMMARY:Construction Output m/m
-UID:2aa6ba34-0993-44c5-95d4-567fde2aa151@2aa6.org
+DTSTART:20251027T113000Z
+SUMMARY:Core Durable Goods Orders m/m
+UID:131d1983-643d-4f21-b1c1-70e86fe4a9a4@131d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GBP  FPC Meeting Minutes\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251008T093000Z
-SUMMARY:FPC Meeting Minutes
-UID:b16e414e-4de2-430d-8810-07ed99100e0d@b16e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T073000Z
-SUMMARY:German Flash Manufacturing PMI
-UID:47336e0e-f4ef-414c-9920-fb1ac1089d83@4733.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T090000Z
-SUMMARY:Final Manufacturing PMI
-UID:1e647c90-45a7-41a1-8ee8-728c174aecd3@1e64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  Non-Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251031T013000Z
-SUMMARY:Non-Manufacturing PMI
-UID:efce01f6-d548-4d9d-90c1-475532ec6e85@efce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  PPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T100000Z
-SUMMARY:PPI m/m
-UID:84ef653b-78f5-471b-bea5-a14a4bd86a2e@84ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  RBA Monetary Policy Statement\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251104T033000Z
-SUMMARY:RBA Monetary Policy Statement
-UID:426ad961-06ee-4701-b6d2-c89d48708730@426a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Italian Retail Sales m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T090000Z
-SUMMARY:Italian Retail Sales m/m
-UID:b724ff7c-d5e3-4d20-bab0-c025a68e9427@b724.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Natural Gas Storage\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T143000Z
-SUMMARY:Natural Gas Storage
-UID:97f00699-0275-4e5a-97a3-c18fbc33cf76@97f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  ANZ Commodity Prices m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T000000Z
-SUMMARY:ANZ Commodity Prices m/m
-UID:6d65d525-0f36-4bcd-b819-8d61e5e44c2c@6d65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Bowman Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T123500Z
-SUMMARY:FOMC Member Bowman Speaks
-UID:cbabcc8b-1bcc-4708-83ee-9a8f2e1c44a6@cbab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  Credit Card Spending y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251021T020000Z
-SUMMARY:Credit Card Spending y/y
-UID:39903961-f819-4c32-adcb-bf4f2859c734@3990.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251104
-DESCRIPTION:CAD  Annual Budget Release\nPrevious: \nForecast: \nActual: 
-SUMMARY:Annual Budget Release
-UID:af029f37-63fc-4aa1-b0ad-d2de7c48372d@af02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  1-y Loan Prime Rate\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:CNY  Fixed Asset Investment ytd/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
 DTSTART:20251020T010000Z
-SUMMARY:1-y Loan Prime Rate
-UID:59e819b0-bb13-40bc-ba65-cc8b4ec4d756@59e8.org
+SUMMARY:Fixed Asset Investment ytd/y
+UID:1837ebfb-f013-4f3a-9ba0-4553f681245b@1837.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:USD  Final Services PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251016T123000Z
-SUMMARY:Unemployment Claims
-UID:7ec11245-45fe-4646-8c7e-6da55473230d@7ec1.org
+DTSTART:20251105T134500Z
+SUMMARY:Final Services PMI
+UID:83ccec05-6622-4b4f-80ff-c3f41d5b1f0f@83cc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Pending Home Sales m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  Core CPI Flash Estimate y/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251029T140000Z
-SUMMARY:Pending Home Sales m/m
-UID:44eaecb8-ead0-453c-a915-57101ae09b34@44ea.org
+DTSTART:20251031T090000Z
+SUMMARY:Core CPI Flash Estimate y/y
+UID:f491d0e1-0635-4b2a-85d3-a1e0bbb6656a@f491.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:JPY  Prelim Industrial Production m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:GBP  MPC Member Greene Speaks\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251030T235000Z
-SUMMARY:Prelim Industrial Production m/m
-UID:6bd48e40-0bf6-45d7-bd82-a375cb5ecaca@6bd4.org
+DTSTART:20251017T100000Z
+SUMMARY:MPC Member Greene Speaks
+UID:1d197952-ab3e-4ea5-8084-27af31583d26@1d19.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  ISM Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  German WPI m/m\nPrevious: -0.6%\nForecast: 0.2%\nActual: 
 DURATION:PT1H
-DTSTART:20251103T150000Z
-SUMMARY:ISM Manufacturing PMI
-UID:058f02ba-7308-4188-b060-82585806b142@058f.org
+DTSTART:20251013T050000Z
+SUMMARY:German WPI m/m
+UID:aee2c0ee-3c58-44d8-be11-bc3e22fcd0b6@aee2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GBP  Public Sector Net Borrowing\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:CAD  BOC Business Outlook Survey\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251021T060000Z
-SUMMARY:Public Sector Net Borrowing
-UID:9b0f2bab-b120-4f73-98d7-a5afd1ed4c5a@9b0f.org
+DTSTART:20251020T133000Z
+SUMMARY:BOC Business Outlook Survey
+UID:5aac9294-145c-4cd5-af47-1af60f3c3ad9@5aac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CAD  Trade Balance\nPrevious: -4.9B\nForecast: -5.7B\nActual: 
+DESCRIPTION:USD  FOMC Member Waller Speaks\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251007T123000Z
-SUMMARY:Trade Balance
-UID:65d748b4-fa67-4a94-8291-ecdb0f163f34@65d7.org
+DTSTART:20251015T160000Z
+SUMMARY:FOMC Member Waller Speaks
+UID:37f214d7-8ce5-4e01-ab51-f56bcdc3e71d@37f2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:AUD  Trimmed Mean CPI q/q\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  German Trade Balance\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251029T003000Z
-SUMMARY:Trimmed Mean CPI q/q
-UID:8507bfe1-54af-4c1b-9a69-241629ad6f53@8507.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  CB Leading Index m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251013T133000Z
-SUMMARY:CB Leading Index m/m
-UID:109fbc93-17bb-4feb-b34a-f06c92ac4010@109f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Bowman Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T194500Z
-SUMMARY:FOMC Member Bowman Speaks
-UID:9466b7dd-8185-4de1-8cea-ca54dba7aff1@9466.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  ADP Non-Farm Employment Change\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T131500Z
-SUMMARY:ADP Non-Farm Employment Change
-UID:b9ef7d5c-7b36-459b-a72c-7f0dc382b16f@b9ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NZD  Building Consents m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251102T214500Z
-SUMMARY:Building Consents m/m
-UID:1dd50e9b-bbea-49b4-9653-c0a2038d1559@1dd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  M4 Money Supply m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T093000Z
-SUMMARY:M4 Money Supply m/m
-UID:136a0106-b6e2-4bc3-a42f-519633b91247@136a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T003000Z
-SUMMARY:Flash Manufacturing PMI
-UID:ac941e5e-8320-4c18-a74a-3b15fc599681@ac94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  French Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T085000Z
-SUMMARY:French Final Manufacturing PMI
-UID:497caaf3-f37a-4171-8e11-d17a07a1928e@497c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  German Prelim CPI m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251030T040000Z
-SUMMARY:German Prelim CPI m/m
-UID:f3c3d158-8e5d-4e54-9e4f-dacad207afe9@f3c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CNY  Bank Holiday\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251006T040000Z
-SUMMARY:Bank Holiday
-UID:23a133a3-492e-41b8-99ec-9af8c504bcc9@23a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  Flash Services PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T080000Z
-SUMMARY:Flash Services PMI
-UID:ef887612-2245-415b-9c75-e13613d8a163@ef88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  M3 Money Supply y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251027T090000Z
-SUMMARY:M3 Money Supply y/y
-UID:83e8f830-90e0-4023-9032-cdd91924c1ad@83e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Common CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251021T123000Z
-SUMMARY:Common CPI y/y
-UID:687f5cdc-7ded-4174-9fbe-b985a379a322@687f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Federal Budget Balance\nPrevious: -344.8B\nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251010T180000Z
-SUMMARY:Federal Budget Balance
-UID:667fc9a3-7422-41cb-ab40-62d2fab564b8@667f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Crude Oil Inventories\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251105T153000Z
-SUMMARY:Crude Oil Inventories
-UID:7bc57436-4a02-4347-883d-62144f3cd38a@7bc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EUR  ECB President Lagarde Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251008T160000Z
-SUMMARY:ECB President Lagarde Speaks
-UID:1c69d9ec-180e-403a-8eed-24417b06e8c4@1c69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  MPC Member Mann Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251009T083000Z
-SUMMARY:MPC Member Mann Speaks
-UID:d3aacf7d-b1d8-4d99-ace7-b03a30056260@d3aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Kashkari Speaks\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251007T153000Z
-SUMMARY:FOMC Member Kashkari Speaks
-UID:1c3b3994-a6c3-40c3-a0f7-61c3aa69cc0f@1c3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Trimmed CPI y/y\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251021T123000Z
-SUMMARY:Trimmed CPI y/y
-UID:ca8fe99e-de94-412e-b782-bca7f262035d@ca8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Revised UoM Consumer Sentiment\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251024T140000Z
-SUMMARY:Revised UoM Consumer Sentiment
-UID:08f153ea-ef01-4c1e-81d0-8f3871c2967f@08f1.org
+DTSTART:20251107T060000Z
+SUMMARY:German Trade Balance
+UID:8a303d2c-c0e8-4c3b-9d49-b276eca6e371@8a30.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:JPY  Monetary Base y/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251104T235000Z
+DTSTART:20251104T225000Z
 SUMMARY:Monetary Base y/y
-UID:ccf0ec75-de93-4bf5-8809-c9e0da1236f8@ccf0.org
+UID:51bdd11e-d5b4-4e43-adfc-64b1df48e4b8@51bd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:JPY  Bank Holiday\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  German Final CPI m/m\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251012T040000Z
-SUMMARY:Bank Holiday
-UID:9687fcbb-ab3c-4d67-91dc-31e39e7fa20f@9687.org
+DTSTART:20251112T060000Z
+SUMMARY:German Final CPI m/m
+UID:f5ef3793-747b-4adc-ae36-a189efdbc1a6@f5ef.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GBP  FPC Statement\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:AUD  Import Prices q/q\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251008T093000Z
-SUMMARY:FPC Statement
-UID:e1a06d54-1544-4cd8-8d1c-b9851d19b37c@e1a0.org
+DTSTART:20251029T233000Z
+SUMMARY:Import Prices q/q
+UID:bc53c0fc-a3f7-47e8-a3a0-baeabed42bfd@bc53.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:EUR  Spanish 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
-SUMMARY:Spanish 10-y Bond Auction
-UID:37f7ea72-d45b-4fd2-9ac0-9c66afec524d@37f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  CPI m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  ZEW Economic Sentiment\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251021T123000Z
-SUMMARY:CPI m/m
-UID:2637c4b4-8b97-4eb4-a277-1353585315e6@2637.org
+DTSTART:20251111T090000Z
+SUMMARY:ZEW Economic Sentiment
+UID:b58ef9cd-8c23-4134-89d4-5b63c64d582c@b58e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:JPY  Tokyo Core CPI y/y\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  German ZEW Economic Sentiment\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251030T233000Z
-SUMMARY:Tokyo Core CPI y/y
-UID:043baa74-7718-4c6e-9c44-9e2c64b6ab16@043b.org
+DTSTART:20251111T090000Z
+SUMMARY:German ZEW Economic Sentiment
+UID:6d7d4003-0e66-4898-96e0-d398499ccfe9@6d7d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CAD  Core Retail Sales m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:GBP  RPI y/y\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251023T123000Z
-SUMMARY:Core Retail Sales m/m
-UID:39f77e51-2ca5-4fb8-8b37-41a5bc0acb7d@39f7.org
+DTSTART:20251022T050000Z
+SUMMARY:RPI y/y
+UID:c0b346b7-4350-4ade-80c4-768f1ca8647f@c0b3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Natural Gas Storage\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  French Flash GDP q/q\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251023T143000Z
-SUMMARY:Natural Gas Storage
-UID:98d7f789-f807-45ab-9284-28b3839ff45d@98d7.org
+DTSTART:20251030T053000Z
+SUMMARY:French Flash GDP q/q
+UID:64dcfb82-1f08-4d4e-9eee-f864720e388e@64dc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Flash Services PMI\nPrevious: \nForecast: \nActual: 
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:AUD  NAB Quarterly Business Confidence\nPrevious: \nForecast: \nActual: 
+SUMMARY:NAB Quarterly Business Confidence
+UID:4b896b5b-2f40-4e82-98b0-a4ce942d4b21@4b89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251024T134500Z
-SUMMARY:Flash Services PMI
-UID:79dcca0d-9b07-42bc-bd3d-e2a0e257e5a1@79dc.org
+DTSTART:20251106T123000Z
+SUMMARY:Unemployment Claims
+UID:6db2c56e-263d-4a2a-b9ad-a0621385adc0@6db2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CAD  IPPI m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  Prelim Flash GDP q/q\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251020T123000Z
-SUMMARY:IPPI m/m
-UID:afe64f9f-62a8-4c49-bcaa-f77ee0cf58d5@afe6.org
+DTSTART:20251030T090000Z
+SUMMARY:Prelim Flash GDP q/q
+UID:f105db12-d3cf-4038-b9ff-c0facc2d2ed3@f105.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:EUR  Industrial Production m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:NZD  Building Consents m/m\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251015T090000Z
-SUMMARY:Industrial Production m/m
-UID:57e1af6e-2c3b-4e88-b79d-baa623ee2b0c@57e1.org
+DTSTART:20251102T204500Z
+SUMMARY:Building Consents m/m
+UID:aa490906-aa37-4ae9-95e7-1577e183e090@aa49.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Core CPI m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  German Final Services PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251015T123000Z
-SUMMARY:Core CPI m/m
-UID:cba23c6b-7a3f-4d19-a018-9d8098a42d1e@cba2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CAD  Employment Change\nPrevious: -65.5K\nForecast: 2.8K\nActual: 
-DURATION:PT1H
-DTSTART:20251010T123000Z
-SUMMARY:Employment Change
-UID:248d9476-fbd5-4d3f-bb02-bc31f0526f64@248d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  PPI y/y\nPrevious: 2.7%\nForecast: 2.5%\nActual: 
-DURATION:PT1H
-DTSTART:20251009T235000Z
-SUMMARY:PPI y/y
-UID:27c5e4d7-667f-4d33-ab63-0370ca33476e@27c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Crude Oil Inventories\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251029T143000Z
-SUMMARY:Crude Oil Inventories
-UID:571621e1-0f62-485a-beb9-262197da685c@5716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  MI Leading Index m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251014T233000Z
-SUMMARY:MI Leading Index m/m
-UID:8186e01c-9968-4c51-a34b-faa375d6605b@8186.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AUD  Goods Trade Balance\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251106T003000Z
-SUMMARY:Goods Trade Balance
-UID:400946c8-6df5-4818-8256-200b71146d3d@4009.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:USD  Unemployment Rate\nPrevious: 4.3%\nForecast: 4.3%\nActual: 
-SUMMARY:Unemployment Rate
-UID:1bbb425e-747b-4c18-abb6-ff2b5d9b5785@1bbb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-DESCRIPTION:GBP  Housing Equity Withdrawal q/q\nPrevious: -3.3B\nForecast: -4.5B\nActual: 
-SUMMARY:Housing Equity Withdrawal q/q
-UID:3821f270-5dca-4051-ac7e-60357527bd49@3821.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  CBI Realized Sales\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251027T110000Z
-SUMMARY:CBI Realized Sales
-UID:7efca5f1-bb46-4b3f-88a1-c29974e6417b@7efc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  TIC Long-Term Purchases\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251017T200000Z
-SUMMARY:TIC Long-Term Purchases
-UID:2e7f1e25-6271-43be-9b43-7915098209b0@2e7f.org
+DTSTART:20251105T075500Z
+SUMMARY:German Final Services PMI
+UID:261e7b13-5c62-458d-bcd1-526917930570@261e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
 DTSTART:20251017T040000Z
 SUMMARY:IMF Meetings
-UID:c144a3ef-653b-4399-93fa-c1aee7b53b21@c144.org
+UID:0f7264cd-af52-42c7-954d-50821e46677b@0f72.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  ISM Manufacturing Prices\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:USD  CPI m/m\nPrevious: 0.4%\nForecast: 0.4%\nActual: 
 DURATION:PT1H
-DTSTART:20251103T150000Z
-SUMMARY:ISM Manufacturing Prices
-UID:5725dbb0-e652-44dd-b676-ce072187715c@5725.org
+DTSTART:20251024T113000Z
+SUMMARY:CPI m/m
+UID:ccb8f63e-3b88-4843-98f0-db92eddb7b55@ccb8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  NAHB Housing Market Index\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  Monetary Policy Statement\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251016T140000Z
-SUMMARY:NAHB Housing Market Index
-UID:5dbe5102-cff2-4891-ae1c-94f6bfeb7fdb@5dbe.org
+DTSTART:20251030T121500Z
+SUMMARY:Monetary Policy Statement
+UID:3d4cbe7d-85fa-44a4-b183-25a1fef882b6@3d4c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CAD  Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  Italian Retail Sales m/m\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251103T143000Z
-SUMMARY:Manufacturing PMI
-UID:554b46b4-0dee-4c60-a8a4-5464adbd128c@554b.org
+DTSTART:20251105T080000Z
+SUMMARY:Italian Retail Sales m/m
+UID:b151130d-03cd-4de1-a5fe-3060e0a4767b@b151.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CHF  PPI m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  Italian Monthly Unemployment Rate\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251014T063000Z
-SUMMARY:PPI m/m
-UID:0d8013b3-91e1-4de0-bab6-5506aada4624@0d80.org
+DTSTART:20251030T090000Z
+SUMMARY:Italian Monthly Unemployment Rate
+UID:ccc85bbd-0bb8-407c-be89-4fc15439fcdb@ccc8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GBP  Rightmove HPI m/m\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:USD  JOLTS Job Openings\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251019T230100Z
-SUMMARY:Rightmove HPI m/m
-UID:da28bb4d-0969-45c1-8bee-8178456f1588@da28.org
+DTSTART:20251104T140000Z
+SUMMARY:JOLTS Job Openings
+UID:7f9098ed-5747-4d65-96c4-ff223ad5d949@7f90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  ANZ Business Confidence\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T230000Z
+SUMMARY:ANZ Business Confidence
+UID:1a1281c4-31a4-47da-a60b-1aba375c2d30@1a12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Halifax HPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T060000Z
+SUMMARY:Halifax HPI m/m
+UID:19d5453d-0d12-4720-a76f-5c828ee4219e@19d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Sentix Investor Confidence\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251110T083000Z
+SUMMARY:Sentix Investor Confidence
+UID:ea029bf5-5598-40a5-a693-d5cd149646d3@ea02.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:USD  API Weekly Statistical Bulletin\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251028T203000Z
+DTSTART:20251021T193000Z
 SUMMARY:API Weekly Statistical Bulletin
-UID:4a987236-c963-4b02-b6d1-4c198845da4e@4a98.org
+UID:36e37a9d-ea2e-4462-bcfc-553f642d65fd@36e3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:EUR  German Prelim GDP q/q\nPrevious: \nForecast: \nActual: 
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:GBP  10-y Bond Auction\nPrevious: \nForecast: \nActual: 
+SUMMARY:10-y Bond Auction
+UID:7debb7af-f3e5-4d41-91a1-e5f3ea2c377c@7deb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Cash Rate\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251030T090000Z
-SUMMARY:German Prelim GDP q/q
-UID:aea7e2b4-1bc1-4811-a529-bc3755c839c7@aea7.org
+DTSTART:20251104T023000Z
+SUMMARY:Cash Rate
+UID:36f8b807-e5ea-4dfa-940d-d09a8eb20341@36f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  BOC Press Conference\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T133000Z
+SUMMARY:BOC Press Conference
+UID:7022ef91-137d-473b-8053-8b1bb2d87059@7022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T204500Z
+SUMMARY:Unemployment Rate
+UID:130dcd60-b141-4ff2-b77b-36e263a864a0@130d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Flash Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T210000Z
+SUMMARY:Flash Services PMI
+UID:7ded4e35-61e1-48ed-9eda-e0dbfff98ee4@7ded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251102T050000Z
+SUMMARY:Daylight Saving Time Shift
+UID:95868f94-1516-421d-ab82-e6f60a7583ef@9586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Challenger Job Cuts y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T113000Z
+SUMMARY:Challenger Job Cuts y/y
+UID:059dd4f3-dc00-4694-a4b5-0492ddbe5b08@059d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Household Spending m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251102T233000Z
+SUMMARY:Household Spending m/m
+UID:b43cadc0-b625-4f0d-ab34-00711b5a9b7e@b43c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Crude Oil Inventories\nPrevious: 3.7M\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T150000Z
+SUMMARY:Crude Oil Inventories
+UID:53fbefd6-a1bd-4c01-a7ad-a86d11ab7840@53fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Private Loans y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251027T080000Z
+SUMMARY:Private Loans y/y
+UID:fe63727e-b607-4059-98b4-3bfbf0c31cb8@fe63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+DESCRIPTION:CNY  New Loans\nPrevious: \nForecast: \nActual: 
+SUMMARY:New Loans
+UID:3bda9aae-fbff-46cf-80fb-fcaf09aad89f@3bda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Miran Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T123000Z
+SUMMARY:FOMC Member Miran Speaks
+UID:30099503-bd33-47cf-a395-36baf87c6ba1@3009.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Housing Starts\nPrevious: 246K\nForecast: 248K\nActual: 
+DURATION:PT1H
+DTSTART:20251016T111500Z
+SUMMARY:Housing Starts
+UID:87ba70a6-e359-4ead-96c1-a4464c310155@87ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  Trade Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T204500Z
+SUMMARY:Trade Balance
+UID:549ee835-3eee-4895-a54b-b0923a6acb88@549e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Richmond Manufacturing Index\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251028T130000Z
+SUMMARY:Richmond Manufacturing Index
+UID:91c77f7b-a6b0-4c6c-8513-d2fa59c27bba@91c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:CAD  Annual Budget Release\nPrevious: \nForecast: \nActual: 
+SUMMARY:Annual Budget Release
+UID:becb42ba-3a10-4b36-a586-cd5b0a23a392@becb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:USD  Loan Officer Survey\nPrevious: \nForecast: \nActual: 
+SUMMARY:Loan Officer Survey
+UID:66dc1a8b-a65e-42e3-8adf-91ad8ece8580@66dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German Buba Monthly Report\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T090000Z
+SUMMARY:German Buba Monthly Report
+UID:26e3b0d8-b267-471e-8eb9-b9b3bcaefba8@26e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German GfK Consumer Climate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251028T060000Z
+SUMMARY:German GfK Consumer Climate
+UID:f68d5fc2-1042-4f0e-a8c5-ec694a23921b@f68d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T123000Z
+SUMMARY:Unemployment Rate
+UID:50484f87-5dcb-4bc2-b880-fdba3263088d@5048.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  Visitor Arrivals m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T204500Z
+SUMMARY:Visitor Arrivals m/m
+UID:4e3ba947-8075-44cd-ab5c-fee3533659ed@4e3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  NAB Business Confidence\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251110T233000Z
+SUMMARY:NAB Business Confidence
+UID:31119c09-c744-4baf-9dd9-f86791ec23d1@3111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Claimant Count Change\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T060000Z
+SUMMARY:Claimant Count Change
+UID:0b316461-fac5-4127-9ef3-bdb0f3a77ab6@0b31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  Foreign Currency Reserves\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T070000Z
+SUMMARY:Foreign Currency Reserves
+UID:9fb8e1f6-4c6c-42fb-83ea-1ccce79edf8a@9fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Philly Fed Manufacturing Index\nPrevious: 23.2\nForecast: 9.1\nActual: 
+DURATION:PT1H
+DTSTART:20251016T113000Z
+SUMMARY:Philly Fed Manufacturing Index
+UID:822ec233-ba25-42fc-8be4-e8ea844d9b46@822e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:USD  Federal Budget Balance\nPrevious: -344.8B\nForecast: 42.3B\nActual: 
+SUMMARY:Federal Budget Balance
+UID:3fe02cf2-039a-42df-bd58-bb7359959504@3fe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Current Account\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251110T225000Z
+SUMMARY:Current Account
+UID:4a1df3e8-a516-4a07-bf0e-2ea6cbb79bce@4a1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  Labor Cost Index q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T204500Z
+SUMMARY:Labor Cost Index q/q
+UID:67e63abb-e98e-484e-98e5-fd8b6fd03c85@67e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:USD  Factory Orders m/m\nPrevious: -1.3%\nForecast: 1.4%\nActual: 
+SUMMARY:Factory Orders m/m
+UID:5b838715-c826-40bf-a8b6-d625f67bdea1@5b83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  RBA Rate Statement\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T023000Z
+SUMMARY:RBA Rate Statement
+UID:70995b8c-a983-44ab-950b-a23dad51b3b7@7099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Federal Funds Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T170000Z
+SUMMARY:Federal Funds Rate
+UID:b079a5f1-a483-496a-ab35-c235c9793166@b079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251109T003000Z
+SUMMARY:CPI y/y
+UID:4db91d5d-7370-4c40-b2a4-a8740de938d9@4db9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Trade Balance\nPrevious: 5.3B\nForecast: 4.2B\nActual: 
+DURATION:PT1H
+DTSTART:20251016T080000Z
+SUMMARY:Trade Balance
+UID:2f882e89-9892-4cf0-8ee0-28b94b3fd856@2f88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Construction Spending m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T140000Z
+SUMMARY:Construction Spending m/m
+UID:5239547e-5cb1-414b-8ccc-240e7780c4e8@5239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Goods Trade Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T233000Z
+SUMMARY:Goods Trade Balance
+UID:f47c770e-96da-45f3-8f8e-0a7f72dfe1c3@f47c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:USD  Treasury Currency Report\nPrevious: \nForecast: \nActual: 
+SUMMARY:Treasury Currency Report
+UID:ad691952-c8a9-46bb-affc-9c2ea0170a6c@ad69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251026T010000Z
+SUMMARY:Daylight Saving Time Shift
+UID:948424d9-28d7-405a-aa0d-90864a4cca9d@9484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T070000Z
+SUMMARY:Flash Manufacturing PMI
+UID:f233e8de-0a7d-4024-b534-90d37683fb93@f233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Official Bank Rate Votes\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T110000Z
+SUMMARY:MPC Official Bank Rate Votes
+UID:f1049dd8-3c63-4cb3-afd7-ec795b489015@f104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Employment Cost Index q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251031T113000Z
+SUMMARY:Employment Cost Index q/q
+UID:ff3337ec-bd94-4ef8-a514-4ed8ab584ef6@ff33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  M4 Money Supply m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T083000Z
+SUMMARY:M4 Money Supply m/m
+UID:1760ab45-4a9e-47ec-a9ba-d792958129ac@1760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  KOF Economic Barometer\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T070000Z
+SUMMARY:KOF Economic Barometer
+UID:c20f7d52-5c51-497d-967b-55ee302f13d0@c20f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Bank Holiday\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T050000Z
+SUMMARY:Bank Holiday
+UID:22fb1ebe-43e3-4dc4-9bd0-113d36321279@22fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:CNY  M2 Money Supply y/y\nPrevious: 8.8%\nForecast: 8.5%\nActual: 
+SUMMARY:M2 Money Supply y/y
+UID:ade73e42-86e8-4465-add5-ae7b90abf28f@ade7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:USD  TIC Long-Term Purchases\nPrevious: 49.2B\nForecast: \nActual: 
+SUMMARY:TIC Long-Term Purchases
+UID:29e85863-6284-4ed3-9e81-1c7b0ebdc73c@29e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:EUR  German Unemployment Change\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251030T085500Z
+DTSTART:20251030T075500Z
 SUMMARY:German Unemployment Change
-UID:36f7da00-92b4-49e0-99d6-ff2679399d35@36f7.org
+UID:518eb49c-4927-4f16-adc5-ba1ce5872a79@518e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  SECO Consumer Climate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T070000Z
+SUMMARY:SECO Consumer Climate
+UID:22a2401b-a8bb-4a07-a274-e01d62be2ab1@22a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Non-Farm Employment Change\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T123000Z
+SUMMARY:Non-Farm Employment Change
+UID:b764e369-77cc-4253-9f81-c0e26008050a@b764.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Goods Trade Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T113000Z
+SUMMARY:Goods Trade Balance
+UID:7254158a-4a8c-4444-9ecd-023e65155a0f@7254.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+DESCRIPTION:JPY  BOJ Press Conference\nPrevious: \nForecast: \nActual: 
+SUMMARY:BOJ Press Conference
+UID:e4e073f6-dc41-4e88-9679-94c0b4c8ecc7@e4e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:USD  Trade Balance\nPrevious: -78.3B\nForecast: -61.4B\nActual: 
+SUMMARY:Trade Balance
+UID:46417818-f02f-42b5-a882-c97e69f57276@4641.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:CNY  USD-Denominated Trade Balance\nPrevious: \nForecast: \nActual: 
+SUMMARY:USD-Denominated Trade Balance
+UID:f91f6e0b-a10c-47ba-8ff0-11ecc9c5d1c5@f91f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  National Core CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T223000Z
+SUMMARY:National Core CPI y/y
+UID:ca7191f3-7c49-4444-a737-b38cb7f44977@ca71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:USD  Unemployment Rate\nPrevious: 4.3%\nForecast: 4.3%\nActual: 
+SUMMARY:Unemployment Rate
+UID:b7fd38da-81ac-4ea0-98a5-2a8379d51aa1@b7fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Mann Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251013T181000Z
+SUMMARY:MPC Member Mann Speaks
+UID:a823ee45-15de-48ee-b828-95858e34648a@a823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Miran Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T153000Z
+SUMMARY:FOMC Member Miran Speaks
+UID:e1d75dc9-7904-420e-b9b7-0967892bb989@e1d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+DESCRIPTION:JPY  Monetary Policy Statement\nPrevious: \nForecast: \nActual: 
+SUMMARY:Monetary Policy Statement
+UID:29194a9a-6f70-4d11-a67e-705e3d3aa9b3@2919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  CPI y/y\nPrevious: 2.9%\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T113000Z
+SUMMARY:CPI y/y
+UID:58782afc-cee9-4777-a239-7cfc15338c37@5878.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+DESCRIPTION:USD  Cleveland Fed Inflation Expectations\nPrevious: \nForecast: \nActual: 
+SUMMARY:Cleveland Fed Inflation Expectations
+UID:5760f697-349c-492e-b071-0a5879cf4f7d@5760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  Industrial Production y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T010000Z
+SUMMARY:Industrial Production y/y
+UID:9d6e3ec9-8807-48a2-baa5-3fb36c84be4c@9d6e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:EUR  German Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251103T085500Z
+DTSTART:20251103T075500Z
 SUMMARY:German Final Manufacturing PMI
-UID:a04e0163-489b-40d3-964d-230c094522e5@a04e.org
+UID:92610fde-d57f-4b0c-b5ca-8a7e38f5a918@9261.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CNY  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:JPY  Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251020T020000Z
-SUMMARY:Unemployment Rate
-UID:aad92990-3738-4041-b182-cf4e8d8d948a@aad9.org
+DTSTART:20251023T233000Z
+SUMMARY:Flash Manufacturing PMI
+UID:67555527-75d6-43bf-ad97-2899be68e60f@6755.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:EUR  Italian Prelim GDP q/q\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:GBP  Manufacturing Production m/m\nPrevious: -1.3%\nForecast: 0.2%\nActual: 
 DURATION:PT1H
-DTSTART:20251030T090000Z
-SUMMARY:Italian Prelim GDP q/q
-UID:e231e5c8-be36-4cde-8bd3-ef2428586729@e231.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:USD  Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251103T144500Z
-SUMMARY:Final Manufacturing PMI
-UID:788f690e-9d1a-497e-bb8e-842bc6832f5e@788f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GBP  Manufacturing Production m/m\nPrevious: \nForecast: \nActual: 
-DURATION:PT1H
-DTSTART:20251016T060000Z
+DTSTART:20251016T050000Z
 SUMMARY:Manufacturing Production m/m
-UID:0ecf70e2-56d5-4ed4-b6a5-a538e23f8481@0ecf.org
+UID:f04d9cd0-accf-472b-b0f5-2b547b835722@f04d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  FOMC Member Kashkari Speaks\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:GBP  Unemployment Rate\nPrevious: 4.7%\nForecast: 4.7%\nActual: 
 DURATION:PT1H
-DTSTART:20251008T191500Z
-SUMMARY:FOMC Member Kashkari Speaks
-UID:afdb95d2-032d-4587-a9d6-e216b3a814b7@afdb.org
+DTSTART:20251014T050000Z
+SUMMARY:Unemployment Rate
+UID:83abb3c2-1374-48a1-a718-72633b021c8a@83ab.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:EUR  Final Core CPI y/y\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:EUR  ECB Press Conference\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251017T090000Z
-SUMMARY:Final Core CPI y/y
-UID:7ade1521-5122-4e35-8019-3210850f6b83@7ade.org
+DTSTART:20251030T124500Z
+SUMMARY:ECB Press Conference
+UID:44ed567e-8615-4a45-8ee4-091a8b380e0f@44ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:NZD  GDT Price Index\nPrevious: \nForecast: \nActual: 
+SUMMARY:GDT Price Index
+UID:0ed27620-5be8-4faf-a82e-37f70142fba6@0ed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German ZEW Economic Sentiment\nPrevious: 37.3\nForecast: 41.7\nActual: 
+DURATION:PT1H
+DTSTART:20251014T080000Z
+SUMMARY:German ZEW Economic Sentiment
+UID:a505dd2e-2a65-404d-b3d1-7cceb8c8b3f4@a505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German Prelim GDP q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T080000Z
+SUMMARY:German Prelim GDP q/q
+UID:399a69ea-df12-4014-ae12-d813587278a7@399a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Flash Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T124500Z
+SUMMARY:Flash Services PMI
+UID:e1d602a0-4a11-488e-a484-6e20a0be7829@e1d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  M2 Money Stock y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T225000Z
+SUMMARY:M2 Money Stock y/y
+UID:b5568053-08d2-498c-9965-3c9056d840b3@b556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  FPI m/m\nPrevious: 0.3%\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T204500Z
+SUMMARY:FPI m/m
+UID:8463d39d-091b-4942-bf79-ec19864a7171@8463.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  GDP m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251031T113000Z
+SUMMARY:GDP m/m
+UID:3d53672c-82d5-410d-b3a0-114d7cc24222@3d53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  RBA Monetary Policy Statement\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T023000Z
+SUMMARY:RBA Monetary Policy Statement
+UID:7a5bb34f-d8ba-47d0-a0bf-ff830d647487@7a5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Employment Change\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T233000Z
+SUMMARY:Employment Change
+UID:e6a01708-36ef-4cb3-a09a-4ab36c3e19a1@e6a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Prelim Unit Labor Costs q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T123000Z
+SUMMARY:Prelim Unit Labor Costs q/q
+UID:9cdb70c4-32d4-42a7-8fb6-276ae6d35c96@9cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Taylor Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T110000Z
+SUMMARY:MPC Member Taylor Speaks
+UID:21f734af-089a-48fc-8929-f9779fb003ef@21f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Tertiary Industry Activity m/m\nPrevious: 0.5%\nForecast: -0.2%\nActual: 
+DURATION:PT1H
+DTSTART:20251016T033000Z
+SUMMARY:Tertiary Industry Activity m/m
+UID:aa35227f-3fd7-4982-845a-f74602880d2d@aa35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  BOJ Core CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251021T040000Z
+SUMMARY:BOJ Core CPI y/y
+UID:2e26ae99-0d6b-4a7f-8eef-9e2afcf6e975@2e26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  CBI Industrial Order Expectations\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T090000Z
+SUMMARY:CBI Industrial Order Expectations
+UID:71ac5179-a8c2-4d4c-988f-34bc3caa8106@71ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Industrial Production m/m\nPrevious: -0.9%\nForecast: 0.2%\nActual: 
+DURATION:PT1H
+DTSTART:20251016T050000Z
+SUMMARY:Industrial Production m/m
+UID:d7fa7930-cfa0-48df-92d6-6dbd17327389@d7fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Spanish Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T071500Z
+SUMMARY:Spanish Manufacturing PMI
+UID:febbf0d2-391a-4e4d-90b9-8f6ef0b7981a@febb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:USD  Building Permits\nPrevious: 1.31M\nForecast: \nActual: 
+SUMMARY:Building Permits
+UID:2f25d131-4b31-488c-875b-8ca7d9d20159@2f25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  PPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T090000Z
+SUMMARY:PPI m/m
+UID:8e4815af-afef-431f-9d7c-7f8c4f0aecd9@8e48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Waller Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T182500Z
+SUMMARY:FOMC Member Waller Speaks
+UID:2ed9dbe5-8f1c-4f34-a91f-56eb1c015cd6@2ed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Gov Budget Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T064500Z
+SUMMARY:French Gov Budget Balance
+UID:5d4f7894-9848-4fd6-9a7f-ed527db65d90@5d4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T040000Z
+SUMMARY:IMF Meetings
+UID:f6264bda-bcc2-4634-9b7f-3840dd48df5d@f626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  NBS Press Conference\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T010000Z
+SUMMARY:NBS Press Conference
+UID:bb5e5b44-e5f4-4a57-afba-3691b14d4265@bb5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  BRC Retail Sales Monitor y/y\nPrevious: 2.9%\nForecast: 2.5%\nActual: 
+DURATION:PT1H
+DTSTART:20251013T220100Z
+SUMMARY:BRC Retail Sales Monitor y/y
+UID:d20ae2d3-9ed2-492b-b867-f3050f021693@d20a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Prelim Machine Tool Orders y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T050000Z
+SUMMARY:Prelim Machine Tool Orders y/y
+UID:568c7d08-6255-420e-92c6-f078fea743ef@568c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Bowman Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T114500Z
+SUMMARY:FOMC Member Bowman Speaks
+UID:ffb4d97c-26b5-4371-8e31-f7805ef7cc0d@ffb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: \nActual: 
+SUMMARY:Unemployment Claims
+UID:62cc9881-9a43-474d-8296-a8d3c4c1f6c2@62cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  New Home Prices m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T003000Z
+SUMMARY:New Home Prices m/m
+UID:0e0365cb-7cd7-48a8-8fdb-3e79799e7340@0e03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Consumer Confidence\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T130000Z
+SUMMARY:Consumer Confidence
+UID:abc4cecf-398a-4e0b-87ac-23c817d91f6e@abc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  Retail Sales y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T063000Z
+SUMMARY:Retail Sales y/y
+UID:e2b22932-6419-43cc-94eb-bc64f93336a4@e2b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  BOE Credit Conditions Survey\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T073000Z
+SUMMARY:BOE Credit Conditions Survey
+UID:0333619b-32c6-4ce4-9c6b-b46e9fcc5a1b@0333.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T113000Z
+SUMMARY:Unemployment Claims
+UID:47e4ab4e-a72b-48e8-8168-cdcf143d2960@47e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Empire State Manufacturing Index\nPrevious: -8.7\nForecast: 0.2\nActual: 
+DURATION:PT1H
+DTSTART:20251015T113000Z
+SUMMARY:Empire State Manufacturing Index
+UID:7b0646d2-376f-47fe-8fe2-3ff13379390b@7b06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Greene Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T173000Z
+SUMMARY:MPC Member Greene Speaks
+UID:f6e4aebc-9734-4b06-96a6-bd6f335f8b90@f6e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T223000Z
+SUMMARY:Unemployment Rate
+UID:43dc9ce8-638c-41bb-a4cb-b119cea3c029@43dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Personal Spending m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251031T113000Z
+SUMMARY:Personal Spending m/m
+UID:de6ba96b-0ee8-4d41-b638-b6ff2398ab4d@de6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:USD  Core Retail Sales m/m\nPrevious: 0.7%\nForecast: 0.3%\nActual: 
+SUMMARY:Core Retail Sales m/m
+UID:01642c98-5257-415d-8b65-0308cd5dc51f@0164.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T083000Z
+SUMMARY:Final Manufacturing PMI
+UID:0cc95659-1d5a-4748-97ff-49d618aeeec1@0cc9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:GBP  30-y Bond Auction\nPrevious: \nForecast: \nActual: 
+SUMMARY:30-y Bond Auction
+UID:dafcd255-8b11-47e4-b478-375465712011@dafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Bank Lending y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251110T225000Z
+SUMMARY:Bank Lending y/y
+UID:e0ceb9ca-540c-41d7-bddf-482c70f14973@e0ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:USD  PPI m/m\nPrevious: -0.1%\nForecast: 0.3%\nActual: 
+SUMMARY:PPI m/m
+UID:d3c4f22c-bda9-4af2-8ebf-3fcfd15dffe0@d3c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Common CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251021T113000Z
+SUMMARY:Common CPI y/y
+UID:ef6c2f26-de8a-4022-8025-361dd58bbed7@ef6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Crude Oil Inventories\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251022T133000Z
+SUMMARY:Crude Oil Inventories
+UID:069d82c4-3ee8-458c-b4a4-9814cd3ff5f3@069d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251022T050000Z
+SUMMARY:CPI y/y
+UID:40d3af55-b6d9-4fee-90f8-2d311a5fc00e@40d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  CB Consumer Confidence\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251028T130000Z
+SUMMARY:CB Consumer Confidence
+UID:c339a552-2a5b-4c53-8ab8-601ac818b6ca@c339.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Prelim Nonfarm Productivity q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T123000Z
+SUMMARY:Prelim Nonfarm Productivity q/q
+UID:4fcab1f1-377b-462a-b676-3a92d817ac30@4fca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  IPPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T113000Z
+SUMMARY:IPPI m/m
+UID:a42aae1b-86c0-4b3f-94ae-aa010746bf3c@a42a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:EUR  French 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
+SUMMARY:French 10-y Bond Auction
+UID:37009963-6250-4742-8ef3-9705ae1e9ebb@3700.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Collins Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T183000Z
+SUMMARY:FOMC Member Collins Speaks
+UID:ebee2854-694e-42f1-a7ff-7330ce70395d@ebee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Trade Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T123000Z
+SUMMARY:Trade Balance
+UID:240171ec-e164-4fb9-ba2f-08bc15a0bd56@2401.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Monetary Policy Summary\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T110000Z
+SUMMARY:Monetary Policy Summary
+UID:9c6a8136-b20b-4971-9464-d65c68e2e0a8@9c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Prelim UoM Inflation Expectations\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T140000Z
+SUMMARY:Prelim UoM Inflation Expectations
+UID:e0a3d5e0-af15-4bef-abcd-85ae10aff042@e0a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:USD  Industrial Production m/m\nPrevious: 0.1%\nForecast: \nActual: 
+SUMMARY:Industrial Production m/m
+UID:109597ec-386d-4b49-8f3e-6b4901258ad7@1095.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Employment Change\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T123000Z
+SUMMARY:Employment Change
+UID:9eea6e75-f7b2-4ccc-92a0-da1227b0a61d@9eea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Mann Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T134500Z
+SUMMARY:MPC Member Mann Speaks
+UID:409498ac-40c4-4a12-812b-746e48b05857@4094.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Economy Watchers Sentiment\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T040000Z
+SUMMARY:Economy Watchers Sentiment
+UID:36b43b26-b78a-484c-a3d3-fa92c4b929ce@36b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German Retail Sales m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251027T060000Z
+SUMMARY:German Retail Sales m/m
+UID:df52a098-4dc6-4e67-844e-62fa5267e579@df52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  NFIB Small Business Index\nPrevious: 100.8\nForecast: 100.5\nActual: 
+DURATION:PT1H
+DTSTART:20251014T090000Z
+SUMMARY:NFIB Small Business Index
+UID:f3d3d452-3e3e-4577-8d94-66395fbfa4fa@f3d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  UBS Economic Expectations\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T080000Z
+SUMMARY:UBS Economic Expectations
+UID:72145d39-3d6c-477d-89ce-af24d845204f@7214.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:EUR  Spanish 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
+SUMMARY:Spanish 10-y Bond Auction
+UID:a2f23ec4-1068-4c4e-bb25-39b07df7811f@a2f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Ivey PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T140000Z
+SUMMARY:Ivey PMI
+UID:8a98eb95-484a-4546-833f-a4e43e7c56ca@8a98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Breeden Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T140000Z
+SUMMARY:MPC Member Breeden Speaks
+UID:469924be-dd82-417d-b3cb-9a1e6e5ed9e6@4699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Bowman Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T130000Z
+SUMMARY:FOMC Member Bowman Speaks
+UID:0f5e01c8-667f-46b9-8fa7-3e7005f89697@0f5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German Prelim CPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T040000Z
+SUMMARY:German Prelim CPI m/m
+UID:be2c8801-62a6-4baa-982f-d9ce77d71ea8@be2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251018T040000Z
+SUMMARY:IMF Meetings
+UID:9c503c98-d787-423e-8270-6002a2536481@9c50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T063000Z
+SUMMARY:German Flash Manufacturing PMI
+UID:fe8a1be3-4d32-4034-a4b1-127993cd2703@fe8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Net Lending to Individuals m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T083000Z
+SUMMARY:Net Lending to Individuals m/m
+UID:15a99f6b-4173-4ffa-8a83-ce26990fe8b4@15a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Mann Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T120000Z
+SUMMARY:MPC Member Mann Speaks
+UID:cab38728-5f2a-4985-b9f3-83e297ff04a1@cab3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Goods Trade Balance\nPrevious: -22.2B\nForecast: -22.0B\nActual: 
+DURATION:PT1H
+DTSTART:20251016T050000Z
+SUMMARY:Goods Trade Balance
+UID:5ba49319-52ba-413a-97fe-bc84385cb731@5ba4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  PPI y/y\nPrevious: -2.9%\nForecast: -2.3%\nActual: 
+DURATION:PT1H
+DTSTART:20251015T003000Z
+SUMMARY:PPI y/y
+UID:fea39f19-f9c7-46b0-bd12-37cf8843b238@fea3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Private Sector Credit m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T233000Z
+SUMMARY:Private Sector Credit m/m
+UID:d5616eed-a858-41f3-8cdb-dd2c68a5ed3b@d561.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T040000Z
+SUMMARY:IMF Meetings
+UID:c7231650-af50-4eea-a136-b0b484f8f2e4@c723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T073000Z
+SUMMARY:Manufacturing PMI
+UID:035860ba-c8b1-455f-979e-7a8c285235db@0358.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251020
+DESCRIPTION:EUR  German 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
+SUMMARY:German 10-y Bond Auction
+UID:66cd6940-f7bc-4f81-9699-0cb2b2e3fc7a@66cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Revised UoM Inflation Expectations\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T130000Z
+SUMMARY:Revised UoM Inflation Expectations
+UID:ad5a5003-ec23-4acb-8cee-85731773ebab@ad5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  MI Inflation Gauge m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251102T230000Z
+SUMMARY:MI Inflation Gauge m/m
+UID:781a4c0f-6c68-4f3a-b642-73082f65ecf2@781a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:USD  Import Prices m/m\nPrevious: 0.3%\nForecast: \nActual: 
+SUMMARY:Import Prices m/m
+UID:bd179e9b-49fe-47f2-b018-16facdca2f3d@bd17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  ANZ Job Advertisements m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251102T233000Z
+SUMMARY:ANZ Job Advertisements m/m
+UID:64902a20-bd2a-4381-8225-af8d37aae53f@6490.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Rightmove HPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251019T220100Z
+SUMMARY:Rightmove HPI m/m
+UID:da5e112a-5e98-45ae-af0a-15702aeace8d@da5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  BOC Gov Macklem Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T163000Z
+SUMMARY:BOC Gov Macklem Speaks
+UID:dea9ecb2-beb0-4633-9d6b-018efb31fc11@dea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T210000Z
+SUMMARY:Flash Manufacturing PMI
+UID:81d3db14-8627-4376-ab5d-7c23e9655549@81d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T113000Z
+SUMMARY:Unemployment Claims
+UID:88569122-5af1-4b12-92dd-7eecf2b0dae1@8856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Consumer Credit m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T190000Z
+SUMMARY:Consumer Credit m/m
+UID:5f731160-3418-4d4f-81f2-248b5e42f5a8@5f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  HPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251028T120000Z
+SUMMARY:HPI m/m
+UID:4e93103b-9b46-4302-801d-a6c71615673c@4e93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Spanish Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T060000Z
+SUMMARY:Spanish Unemployment Rate
+UID:43b0606e-e1a0-4bcb-b67b-845030b885d2@43b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251028T233000Z
+SUMMARY:CPI y/y
+UID:00719ace-0ec4-4381-999d-8698b92553ed@0071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Spanish Flash GDP q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T070000Z
+SUMMARY:Spanish Flash GDP q/q
+UID:a961aeda-dea0-4b65-8dc6-93cc8f2e1408@a961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  PPI q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T233000Z
+SUMMARY:PPI q/q
+UID:1d769d92-afd1-4abe-8bc5-a3d5d96c80b2@1d76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:USD  Core PPI m/m\nPrevious: -0.1%\nForecast: 0.3%\nActual: 
+SUMMARY:Core PPI m/m
+UID:923dae57-459e-460e-8eb2-785340ffd7fa@923d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:USD  Unemployment Claims\nPrevious: \nForecast: \nActual: 
+SUMMARY:Unemployment Claims
+UID:d883b1e8-0f5b-41d9-9e6e-ca6b51f83bff@d883.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251112
+DESCRIPTION:EUR  German 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
+SUMMARY:German 10-y Bond Auction
+UID:ca2e8a65-11da-4895-9cae-0e62f2d0155f@ca2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Final CPI m/m\nPrevious: -1.0%\nForecast: -1.0%\nActual: 
+DURATION:PT1H
+DTSTART:20251015T054500Z
+SUMMARY:French Final CPI m/m
+UID:c9136da4-cac3-4960-8e07-2661321e7e73@c913.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Italian Trade Balance\nPrevious: 7.91B\nForecast: 7.55B\nActual: 
+DURATION:PT1H
+DTSTART:20251016T080000Z
+SUMMARY:Italian Trade Balance
+UID:3ae18ca6-133e-4b2e-b5f9-bba4399e3794@3ae1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Bank Holiday\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T050000Z
+SUMMARY:French Bank Holiday
+UID:3b371663-c8be-42cf-a991-1a8039fb6a8e@3b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  GDP q/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T010000Z
+SUMMARY:GDP q/y
+UID:ed5d782f-31fc-4af7-acbe-b6ec24e0e708@ed5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T124500Z
+SUMMARY:Flash Manufacturing PMI
+UID:c81cc57c-0c6e-4846-abfb-8d476431a03d@c81c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Official Bank Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T110000Z
+SUMMARY:Official Bank Rate
+UID:c1676cbf-0053-4257-84d4-b52abb67fb86@c167.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:CNY  Foreign Direct Investment ytd/y\nPrevious: \nForecast: \nActual: 
+SUMMARY:Foreign Direct Investment ytd/y
+UID:7c97aa4e-a592-43c6-b60c-8ac288699547@7c97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T060000Z
+SUMMARY:Unemployment Rate
+UID:7a5e7552-a6fd-4e02-97c1-0430c971387f@7a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Italian Prelim CPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251031T090000Z
+SUMMARY:Italian Prelim CPI m/m
+UID:3acbe156-b8c5-47b3-a71f-ea024ba126c1@3acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Industrial Production m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T064500Z
+SUMMARY:French Industrial Production m/m
+UID:43f4da3b-0e4e-4f90-8e94-431a61c766aa@43f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German Final CPI m/m\nPrevious: 0.2%\nForecast: 0.2%\nActual: 
+DURATION:PT1H
+DTSTART:20251014T050000Z
+SUMMARY:German Final CPI m/m
+UID:f7ddb985-6fb0-4df4-bdd5-7b2cb21216d6@f7dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  MI Inflation Expectations\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T230000Z
+SUMMARY:MI Inflation Expectations
+UID:94fa2ec4-03d7-4bc1-92cb-a6c45581695d@94fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Crude Oil Inventories\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T143000Z
+SUMMARY:Crude Oil Inventories
+UID:9cdddeaa-d17d-4f42-8736-b797fd1d17ee@9cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  RBA Gov Bullock Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T184500Z
+SUMMARY:RBA Gov Bullock Speaks
+UID:485c55c1-5ea6-4544-a13a-7ab16165b502@485c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:USD  Final Wholesale Inventories m/m\nPrevious: -0.2%\nForecast: -0.2%\nActual: 
+SUMMARY:Final Wholesale Inventories m/m
+UID:d571883e-a1ab-4e44-a551-c6968e295e2d@d571.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  NFIB Small Business Index\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T100000Z
+SUMMARY:NFIB Small Business Index
+UID:4ad6d64a-23a3-4bf7-89d3-8f8c97201e43@4ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Barr Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T120000Z
+SUMMARY:FOMC Member Barr Speaks
+UID:7f1b551f-0544-41b5-adb3-f50c6c81c4d4@7f1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:CNY  New Loans\nPrevious: 590B\nForecast: 1460B\nActual: 
+SUMMARY:New Loans
+UID:7634ae81-f124-45b7-8638-85dadbf05672@7634.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German Import Prices m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T050000Z
+SUMMARY:German Import Prices m/m
+UID:5fa14cd0-edad-489b-99e9-7545f0e13b24@5fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German WPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T060000Z
+SUMMARY:German WPI m/m
+UID:1afd4a30-7f9c-4d33-bf6f-41f60f0ce67a@1afd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251019T040000Z
+SUMMARY:IMF Meetings
+UID:8f4927b3-7efe-4917-b3b0-eb160da8ec83@8f49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  ZEW Economic Sentiment\nPrevious: 26.1\nForecast: 30.2\nActual: 
+DURATION:PT1H
+DTSTART:20251014T080000Z
+SUMMARY:ZEW Economic Sentiment
+UID:12d8e2b1-e4eb-4c99-abc7-9bd6528ca706@12d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Final Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T075000Z
+SUMMARY:French Final Services PMI
+UID:4e39a39a-f433-4829-9f60-be31155030c5@4e39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Tokyo Core CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T223000Z
+SUMMARY:Tokyo Core CPI y/y
+UID:161b138c-586a-426e-a99e-ee6471107595@161b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  API Weekly Statistical Bulletin\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T203000Z
+SUMMARY:API Weekly Statistical Bulletin
+UID:cdda636e-43db-423f-870e-7b05471d2992@cdda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+DESCRIPTION:GBP  Autumn Forecast Statement\nPrevious: \nForecast: \nActual: 
+SUMMARY:Autumn Forecast Statement
+UID:38a48074-76eb-495d-9274-215e46c2810e@38a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+DESCRIPTION:JPY  BOJ Outlook Report\nPrevious: \nForecast: \nActual: 
+SUMMARY:BOJ Outlook Report
+UID:907e52ca-cb82-4327-bdad-196d3790a4c5@907e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Bank Holiday\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251013T040000Z
+SUMMARY:Bank Holiday
+UID:4642b971-5e12-49e4-9367-e3e00bfa3c5c@4642.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Trade Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T123000Z
+SUMMARY:Trade Balance
+UID:9317e0e3-ce61-4769-b86f-1a63e4421e74@9317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Claimant Count Change\nPrevious: 17.4K\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T050000Z
+SUMMARY:Claimant Count Change
+UID:6cb78b4c-29bd-4b26-9f17-59a89d75e171@6cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  RBNZ Financial Stability Report\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T190000Z
+SUMMARY:RBNZ Financial Stability Report
+UID:4ce4d73b-4187-4264-9d0d-f51b9eea7e06@4ce4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  S&P/CS Composite-20 HPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251028T120000Z
+SUMMARY:S&P/CS Composite-20 HPI y/y
+UID:79734b17-51e2-4d0b-bd1c-3c76e1d0152d@7973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  CPI y/y\nPrevious: -0.4%\nForecast: -0.2%\nActual: 
+DURATION:PT1H
+DTSTART:20251015T003000Z
+SUMMARY:CPI y/y
+UID:a93ba372-2723-4287-a1c3-9cab365e48b5@a93b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  BOC Rate Statement\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T124500Z
+SUMMARY:BOC Rate Statement
+UID:563bad83-c36b-4300-be8d-040c71ea295f@563b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Retail Sales m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T113000Z
+SUMMARY:Retail Sales m/m
+UID:75e6a8cd-90dc-45c2-8a33-75cbced02c8e@75e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T040000Z
+SUMMARY:IMF Meetings
+UID:6f9b97e8-ea8b-4281-a5b3-a11ae4e5725f@6f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  M3 Money Supply y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251027T080000Z
+SUMMARY:M3 Money Supply y/y
+UID:29b824c1-5427-4a02-85f9-dd0441e98151@29b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  RMPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T113000Z
+SUMMARY:RMPI m/m
+UID:9a02f133-6955-4d2d-8854-aff014212696@9a02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  CB Leading Index m/m\nPrevious: 0.0%\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T133000Z
+SUMMARY:CB Leading Index m/m
+UID:e0af0208-f55f-4ae6-9fa9-dc1b710ff31d@e0af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  ECB President Lagarde Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T150000Z
+SUMMARY:ECB President Lagarde Speaks
+UID:c8fe019d-960c-4308-bc14-5935fcb9a02e@c8fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T233000Z
+SUMMARY:Final Manufacturing PMI
+UID:dcc8b718-9fcb-47ea-b0e8-590ccf160b81@dcc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Core CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251022T050000Z
+SUMMARY:Core CPI y/y
+UID:50477901-b263-4da2-9566-d3256469081e@5047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Italian Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T074500Z
+SUMMARY:Italian Services PMI
+UID:0ea5fe5e-064c-413d-9737-c6ac6ac40ba8@0ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Chicago PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251031T124500Z
+SUMMARY:Chicago PMI
+UID:d5a82de7-239f-43ca-bb0e-b36b44881dba@d5a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Fed Chair Powell Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T152000Z
+SUMMARY:Fed Chair Powell Speaks
+UID:af3d1cc6-661e-4ea6-a045-948bf1cd4111@af3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  30-y Bond Auction\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T170100Z
+SUMMARY:30-y Bond Auction
+UID:9e935ba9-794d-4453-9beb-a37b986770c0@9e93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Overnight Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T124500Z
+SUMMARY:Overnight Rate
+UID:8c599d0d-c57c-41c2-beed-fdc01f36cbe4@8c59.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:GBP  Flash Manufacturing PMI\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251024T083000Z
+DTSTART:20251024T073000Z
 SUMMARY:Flash Manufacturing PMI
-UID:70e41475-7682-4c15-bfb0-01a28d58ee40@70e4.org
+UID:6f73fe94-6eb9-4034-baec-d2d3ece99c2b@6f73.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:EUR  Spanish 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
-SUMMARY:Spanish 10-y Bond Auction
-UID:bb4a6770-817e-48dd-aa8b-4cee69f931cd@bb4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:JPY  Leading Indicators\nPrevious: 106.1%\nForecast: 107.1%\nActual: 
+DESCRIPTION:USD  ISM Manufacturing Prices\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251007T050000Z
-SUMMARY:Leading Indicators
-UID:566e5ad2-e6eb-4f77-81dc-53450c7d6131@566e.org
+DTSTART:20251103T140000Z
+SUMMARY:ISM Manufacturing Prices
+UID:fb0d53a0-f1d3-4814-b994-dfd67267ceec@fb0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Musalem Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251017T151500Z
+SUMMARY:FOMC Member Musalem Speaks
+UID:9ee91981-f247-45dd-b97b-7c5a38330aad@9ee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Belgian NBB Business Climate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T120000Z
+SUMMARY:Belgian NBB Business Climate
+UID:5bb6bef8-893e-4c67-ba4a-ce8473b84105@5bb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Trade Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251021T225000Z
+SUMMARY:Trade Balance
+UID:0ec8b9c0-6f47-4b88-b621-7bc43a83786b@0ec8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German Buba President Nagel Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251018T110000Z
+SUMMARY:German Buba President Nagel Speaks
+UID:0db03af1-f636-462e-9f66-09c245b0260d@0db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Wholesale Sales m/m\nPrevious: 1.2%\nForecast: 0.8%\nActual: 
+DURATION:PT1H
+DTSTART:20251015T113000Z
+SUMMARY:Wholesale Sales m/m
+UID:da29fe63-ab8b-427f-88a2-b8efa75fe93c@da29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  Trade Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251021T050000Z
+SUMMARY:Trade Balance
+UID:98af18ee-4afc-4d43-9b35-ff6f71702e90@98af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Trimmed CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251021T113000Z
+SUMMARY:Trimmed CPI y/y
+UID:85e0cbe6-2395-4378-a6ca-a9fbd31fb572@85e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Prelim Private Payrolls q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T064500Z
+SUMMARY:French Prelim Private Payrolls q/q
+UID:dca208b3-3e88-4cdc-8af1-f68028593232@dca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Commodity Prices y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T043000Z
+SUMMARY:Commodity Prices y/y
+UID:2271294a-9dc7-4b58-838a-1891d471ed9c@2271.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:NZD  GDT Price Index\nPrevious: \nForecast: \nActual: 
+SUMMARY:GDT Price Index
+UID:128270cb-ab40-4c0b-b37b-e7f4577c07ec@1282.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:USD  Capacity Utilization Rate\nPrevious: 77.4%\nForecast: \nActual: 
+SUMMARY:Capacity Utilization Rate
+UID:645f4bb7-cc55-4c42-8fdd-ae404a16ed07@645f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  M2 Money Stock y/y\nPrevious: 1.3%\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251013T225000Z
+SUMMARY:M2 Money Stock y/y
+UID:2f53aa3b-8119-4f86-bbd6-88df624550db@2f53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Pill Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251017T083500Z
+SUMMARY:MPC Member Pill Speaks
+UID:e00b55c8-36c7-40c9-80ed-aaa9eb19fc1e@e00b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Greene Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251013T100500Z
+SUMMARY:MPC Member Greene Speaks
+UID:8d24b5d3-9c09-4512-ad20-d0f2d27b7ec0@8d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Statement\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T170000Z
+SUMMARY:FOMC Statement
+UID:44eada6e-d746-4565-9fce-31384a732928@44ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:All  IMF Meetings\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
 DTSTART:20251013T040000Z
 SUMMARY:IMF Meetings
-UID:d9d63c3d-7ebb-45e1-bf53-b89d4cdf1a06@d9d6.org
+UID:b56b4123-8975-4210-bdda-abae4fbd706e@b56b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:JPY  Average Cash Earnings y/y\nPrevious: 3.4%\nForecast: 2.7%\nActual: 
+DESCRIPTION:EUR  German Industrial Production m/m\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251007T233000Z
-SUMMARY:Average Cash Earnings y/y
-UID:9d93d411-22a1-4afe-a5bc-72312145f3d8@9d93.org
+DTSTART:20251106T060000Z
+SUMMARY:German Industrial Production m/m
+UID:f078d8c0-628b-46de-83ce-ccea480fae8e@f078.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:AUD  RBA Gov Bullock Speaks\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:USD  Final Wholesale Inventories m/m\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251010T010000Z
-SUMMARY:RBA Gov Bullock Speaks
-UID:e5b491fd-2f0c-40a6-a94e-f126ff22a17f@e5b4.org
+DTSTART:20251106T140000Z
+SUMMARY:Final Wholesale Inventories m/m
+UID:0d558e13-1b56-42e7-a03b-413e2625e941@0d55.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:USD  FOMC Financial Stability Report\nPrevious: \nForecast: \nActual: 
-SUMMARY:FOMC Financial Stability Report
-UID:a46d886d-0761-4fcc-9f22-1c10ad76f333@a46d.org
+DESCRIPTION:USD  Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T134500Z
+SUMMARY:Final Manufacturing PMI
+UID:1fcb3ca9-c0cd-4d9d-8237-6ac0f4c28236@1fcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Advance GDP q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T113000Z
+SUMMARY:Advance GDP q/q
+UID:d780f1c4-44f8-48f1-bf56-1717c9822ed3@d780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  PPI Output m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251022T050000Z
+SUMMARY:PPI Output m/m
+UID:78a825b9-023f-4112-b185-ec1bf01ba64c@78a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:USD  Non-Farm Employment Change\nPrevious: 22K\nForecast: 52K\nActual: 
+SUMMARY:Non-Farm Employment Change
+UID:5679361c-bc1e-4751-93ba-72b7b6a2e581@5679.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Factory Orders m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T140000Z
+SUMMARY:Factory Orders m/m
+UID:e44e8981-b54d-4268-8829-dfd20d77da7a@e44e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Trimmed Mean CPI q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251028T233000Z
+SUMMARY:Trimmed Mean CPI q/q
+UID:0fe675a3-c8cf-4656-b82d-7bb7229ef7c5@0fe6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  RBA Bulletin\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251022T233000Z
+SUMMARY:RBA Bulletin
+UID:63eaa1c6-65d1-4c24-94a4-faf1e093b10c@63ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  BOE Gov Bailey Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T160000Z
+SUMMARY:BOE Gov Bailey Speaks
+UID:0c24e5e8-6712-4fd7-a832-e04f65a2196e@0c24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  RBA Annual Report\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T033000Z
+SUMMARY:RBA Annual Report
+UID:f30389c7-1b1c-4ada-bfbb-263d8010d2fa@f303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251026T010000Z
+SUMMARY:Daylight Saving Time Shift
+UID:2f0da2f9-823a-44e9-adc7-8f10047b5e72@2f0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  SPPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251026T225000Z
+SUMMARY:SPPI y/y
+UID:e2adf536-a1fa-436d-9c99-d0716c3cfb5e@e2ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  Inflation Expectations q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T010000Z
+SUMMARY:Inflation Expectations q/q
+UID:f707dd83-4104-43c2-a5e9-539e74b57711@f707.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  CB Leading Index m/m\nPrevious: -0.1%\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251013T123000Z
+SUMMARY:CB Leading Index m/m
+UID:3197ff1a-8e5a-4d64-a020-7b372a5ca112@3197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Italian Industrial Production m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T080000Z
+SUMMARY:Italian Industrial Production m/m
+UID:47ee42e9-0c70-45da-873c-51d9884ca185@47ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  GfK Consumer Confidence\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T220100Z
+SUMMARY:GfK Consumer Confidence
+UID:0f522ee0-985b-4ec5-88e4-cebb7b20ac77@0f52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Miran Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T191500Z
+SUMMARY:FOMC Member Miran Speaks
+UID:cbb68aba-6569-48cd-af33-62c47d292147@cbb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Advance GDP Price Index q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T113000Z
+SUMMARY:Advance GDP Price Index q/q
+UID:0ff8f0ba-d9f2-4abc-b967-7d602740f3be@0ff8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  ISM Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T140000Z
+SUMMARY:ISM Manufacturing PMI
+UID:f39ca8c9-f1bd-422e-9b7a-1f0fccd65646@f39c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  PPI m/m\nPrevious: -0.6%\nForecast: 0.2%\nActual: 
+DURATION:PT1H
+DTSTART:20251014T053000Z
+SUMMARY:PPI m/m
+UID:8b68dc91-1db0-40aa-92cd-08c5c65d3f61@8b68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  CB Leading Index m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T130000Z
+SUMMARY:CB Leading Index m/m
+UID:df426386-edaa-4aa4-81d6-a5a437a0892d@df42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  BRC Retail Sales Monitor y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251110T230100Z
+SUMMARY:BRC Retail Sales Monitor y/y
+UID:335dbf38-9901-4ae2-8372-ff23545af774@335d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Average Earnings Index 3m/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T060000Z
+SUMMARY:Average Earnings Index 3m/y
+UID:92445382-3e9b-496d-9fad-63325a4693df@9244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Leading Indicators\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251110T040000Z
+SUMMARY:Leading Indicators
+UID:283d784b-fb8f-4149-8837-17abdf21b6d9@283d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Mortgage Approvals\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T083000Z
+SUMMARY:Mortgage Approvals
+UID:dbaf0554-d77e-4115-b56b-c382041f2270@dbaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Revised UoM Consumer Sentiment\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T130000Z
+SUMMARY:Revised UoM Consumer Sentiment
+UID:feb941bf-c827-45d3-9f9d-863057253683@feb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Housing Starts y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251031T040000Z
+SUMMARY:Housing Starts y/y
+UID:50a148ef-606a-4fe0-9fcc-3a7f0926e7ae@50a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Natural Gas Storage\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T143000Z
+SUMMARY:Natural Gas Storage
+UID:e42225bd-0564-4b90-847d-d7aed34a2209@e422.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Spanish Unemployment Change\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T070000Z
+SUMMARY:Spanish Unemployment Change
+UID:4c6892b1-abd7-44fd-a824-8fbbd80c3861@4c68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Ramsden Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T070000Z
+SUMMARY:MPC Member Ramsden Speaks
+UID:5e26e6df-4cda-4eff-adf4-519eda00e4bf@5e26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Personal Income m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251031T113000Z
+SUMMARY:Personal Income m/m
+UID:d6094742-c89a-4794-adca-a07a90c377e9@d609.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German PPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T050000Z
+SUMMARY:German PPI m/m
+UID:922698a9-6efb-4c8c-bffe-500aa4396a2e@9226.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Revised Industrial Production m/m\nPrevious: -1.2%\nForecast: -1.2%\nActual: 
+DURATION:PT1H
+DTSTART:20251015T033000Z
+SUMMARY:Revised Industrial Production m/m
+UID:3e68b185-8f3c-4cc8-b09c-11b91fa91a2b@3e68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Italian Prelim GDP q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T080000Z
+SUMMARY:Italian Prelim GDP q/q
+UID:64890806-e0a5-4304-8e6f-a946e0a2c513@6489.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  NAB Business Confidence\nPrevious: 4\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251013T233000Z
+SUMMARY:NAB Business Confidence
+UID:ee2913d8-33a4-4e89-9740-d988dccbd1b7@ee29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  BOE Monetary Policy Report\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T110000Z
+SUMMARY:BOE Monetary Policy Report
+UID:13f84c0c-587d-43a7-aff3-c78569828fa3@13f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Durable Goods Orders m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251027T113000Z
+SUMMARY:Durable Goods Orders m/m
+UID:d11d43ff-3a1d-4f06-aea5-9fb484f5dc73@d11d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  RICS House Price Balance\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T230100Z
+SUMMARY:RICS House Price Balance
+UID:e51ca7b2-4ec2-4f33-9ca1-c358f259a2da@e51c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German Factory Orders m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T060000Z
+SUMMARY:German Factory Orders m/m
+UID:cf273ff1-ecf4-4c07-8882-ee7f1810fd34@cf27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Retail Sales m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T090000Z
+SUMMARY:Retail Sales m/m
+UID:7f7fd80d-daec-468c-982e-d3adc8d87340@7f7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251026T010000Z
+SUMMARY:Daylight Saving Time Shift
+UID:1c8e06c2-d205-43b9-96cb-dc17fa05dd68@1c8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Bank Holiday\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251013T040000Z
+SUMMARY:Bank Holiday
+UID:857248b2-85f0-48d0-90a3-061fb5837801@8572.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Average Hourly Earnings m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T123000Z
+SUMMARY:Average Hourly Earnings m/m
+UID:502c0cae-47e0-48a8-931a-4ba9b044227b@502c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Main Refinancing Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T121500Z
+SUMMARY:Main Refinancing Rate
+UID:443291a9-4881-4ec3-b61a-6c49e188a60c@4432.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  CPI q/q\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251019T204500Z
+SUMMARY:CPI q/q
+UID:c4302226-1699-459c-9e03-77b00eb8104a@c430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  ISM Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T140000Z
+SUMMARY:ISM Services PMI
+UID:2c9ea5e1-6fec-496d-a659-4c54d9369c80@2c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  BOC Summary of Deliberations\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T173000Z
+SUMMARY:BOC Summary of Deliberations
+UID:06254629-0816-47a8-99c4-f6060af6f2ba@0625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T233000Z
+SUMMARY:Unemployment Rate
+UID:d097cc2f-8435-441c-8d20-2592bf2d5f47@d097.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:USD  API Weekly Statistical Bulletin\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251104T213000Z
+DTSTART:20251028T193000Z
 SUMMARY:API Weekly Statistical Bulletin
-UID:f5d36aaa-84b2-472a-be6b-fad1fb3341ef@f5d3.org
+UID:ab8d9d4c-c94e-444a-aeed-934e6738f6e9@ab8d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:USD  Chicago PMI\nPrevious: \nForecast: \nActual: 
+DESCRIPTION:JPY  Prelim Industrial Production m/m\nPrevious: \nForecast: \nActual: 
 DURATION:PT1H
-DTSTART:20251031T134500Z
-SUMMARY:Chicago PMI
-UID:b33c6ef4-4390-49c0-9ff2-89d1e415146e@b33c.org
+DTSTART:20251030T225000Z
+SUMMARY:Prelim Industrial Production m/m
+UID:a54d9358-b237-4790-9da9-fbd78e79f498@a54d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:USD  Average Hourly Earnings m/m\nPrevious: 0.3%\nForecast: 0.3%\nActual: 
+SUMMARY:Average Hourly Earnings m/m
+UID:acc620a1-ed78-4979-9af4-514149bfeab6@acc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Core Machinery Orders m/m\nPrevious: -4.6%\nForecast: 0.5%\nActual: 
+DURATION:PT1H
+DTSTART:20251015T225000Z
+SUMMARY:Core Machinery Orders m/m
+UID:936ae24f-57d5-4520-babc-ce02241f4387@936a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  NHPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T113000Z
+SUMMARY:NHPI m/m
+UID:a7c04970-eb53-4bd5-9bc2-edae30986df6@a7c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Average Cash Earnings y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T223000Z
+SUMMARY:Average Cash Earnings y/y
+UID:f156b432-9ea6-496a-b631-372830b6c217@f156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Eurogroup Meetings\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T050000Z
+SUMMARY:Eurogroup Meetings
+UID:139c14ef-b850-423d-8004-d3eafe1061d6@139c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Prelim CPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251031T064500Z
+SUMMARY:French Prelim CPI m/m
+UID:5db1e0bd-b179-4cfb-a40e-84ea6a988072@5db1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  GDP m/m\nPrevious: 0.0%\nForecast: 0.1%\nActual: 
+DURATION:PT1H
+DTSTART:20251016T050000Z
+SUMMARY:GDP m/m
+UID:530cf4ff-fb1b-4a0e-a85c-760cf73f0039@530c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  1-y Loan Prime Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T000000Z
+SUMMARY:1-y Loan Prime Rate
+UID:cf9a5b9a-7969-4c94-9db0-910d9738d774@cf9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T133000Z
+SUMMARY:Manufacturing PMI
+UID:4df8d84c-5b50-4759-a5c9-c1f23129fb01@4df8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Press Conference\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T173000Z
+SUMMARY:FOMC Press Conference
+UID:2dc90ed2-fca7-418c-9b7f-1f354bba6672@2dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Natural Gas Storage\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T133000Z
+SUMMARY:Natural Gas Storage
+UID:1bd35f39-30a9-4893-a4ff-8168b5c66196@1bd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+DESCRIPTION:JPY  BOJ Policy Rate\nPrevious: \nForecast: \nActual: 
+SUMMARY:BOJ Policy Rate
+UID:fbe9b8a4-825f-489e-a1f6-56703599a3bb@fbe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T070000Z
+SUMMARY:Unemployment Rate
+UID:52f81c0b-a61f-4b81-b445-afd5eb2272d1@52f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NZD  Bank Holiday\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251026T040000Z
+SUMMARY:Bank Holiday
+UID:83a322c6-28f8-4e1f-8883-941b3c86a034@83a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  German ifo Business Climate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251027T080000Z
+SUMMARY:German ifo Business Climate
+UID:a70dbf36-80e0-4898-859a-1fab89c9fc27@a70d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CHF  SECO Economic Forecasts\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T060000Z
+SUMMARY:SECO Economic Forecasts
+UID:9b014f09-b778-49a3-ba20-32f38b5c3c72@9b01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Consumer Confidence\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T040000Z
+SUMMARY:Consumer Confidence
+UID:e3605660-051b-4461-afbb-1cb84d730cbf@e360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Italian 10-y Bond Auction\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T040000Z
+SUMMARY:Italian 10-y Bond Auction
+UID:256c9911-1202-4e91-844c-a221082843c0@256c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T080000Z
+SUMMARY:Final Manufacturing PMI
+UID:33fd1fb7-3da9-4dca-90eb-914b2553067c@33fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  RatingDog Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251105T004500Z
+SUMMARY:RatingDog Services PMI
+UID:afbb911e-6910-465d-9fee-098ad40dc6c2@afbb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:GBP  10-y Bond Auction\nPrevious: \nForecast: \nActual: 
+SUMMARY:10-y Bond Auction
+UID:c8b9d308-ec46-4d28-8a08-d7f905e1e1b3@c8b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  API Weekly Statistical Bulletin\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T193000Z
+SUMMARY:API Weekly Statistical Bulletin
+UID:91dc9cd2-1164-4a7d-9de0-e9a181049391@91dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Consumer Spending m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T053000Z
+SUMMARY:French Consumer Spending m/m
+UID:c9b00681-a6e5-4edd-ad46-37017d0ed1a4@c9b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Westpac Consumer Sentiment\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251110T223000Z
+SUMMARY:Westpac Consumer Sentiment
+UID:0c701d92-55e0-4ff8-9863-f47aad52988a@0c70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  HPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251022T073000Z
+SUMMARY:HPI y/y
+UID:4f938090-80e7-4012-905b-c0066ce41d53@4f93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Natural Gas Storage\nPrevious: 80B\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251016T133000Z
+SUMMARY:Natural Gas Storage
+UID:e5fa8378-42ea-4d83-a15b-52caa67f68d5@e5fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Paulson Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251013T155500Z
+SUMMARY:FOMC Member Paulson Speaks
+UID:95847880-b78e-4eda-a08a-5b18a45e868d@9584.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T090000Z
+SUMMARY:Unemployment Rate
+UID:2061f5e5-f8e8-4cbb-97f2-6b543cd55030@2061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Natural Gas Storage\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251023T133000Z
+SUMMARY:Natural Gas Storage
+UID:687eb1eb-0e9a-4854-9b2b-ea6f3ab7da55@687e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Index of Services 3m/3m\nPrevious: 0.4%\nForecast: 0.4%\nActual: 
+DURATION:PT1H
+DTSTART:20251016T050000Z
+SUMMARY:Index of Services 3m/3m
+UID:433fbe8f-d935-447a-89cc-909766f0ab6e@433f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Breeden Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251017T153000Z
+SUMMARY:MPC Member Breeden Speaks
+UID:f7b091ee-d5e4-4647-9769-3088b00752ce@f7b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  MPC Member Breeden Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T144500Z
+SUMMARY:MPC Member Breeden Speaks
+UID:86f98031-fe70-4ee9-8ac1-ef051759fffb@86f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  CBI Realized Sales\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251027T100000Z
+SUMMARY:CBI Realized Sales
+UID:2517481f-e805-43e6-a044-03eb7c71f134@2517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  Retail Sales y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T225000Z
+SUMMARY:Retail Sales y/y
+UID:b78d85b0-a4c5-41ab-b47a-8c127257f91c@b78d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:USD  RCM/TIPP Economic Optimism\nPrevious: \nForecast: \nActual: 
+SUMMARY:RCM/TIPP Economic Optimism
+UID:200a7a5c-a530-413c-a95a-20ee289d83b9@200a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Manufacturing Sales m/m\nPrevious: 2.5%\nForecast: -1.5%\nActual: 
+DURATION:PT1H
+DTSTART:20251015T113000Z
+SUMMARY:Manufacturing Sales m/m
+UID:21472bfd-3ad5-45af-9886-b54b1286fae8@2147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Foreign Securities Purchases\nPrevious: 26.69B\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251017T113000Z
+SUMMARY:Foreign Securities Purchases
+UID:c1c27e19-29ce-4cc4-a911-672dcc04f668@c1c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Prelim Wholesale Inventories m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251029T113000Z
+SUMMARY:Prelim Wholesale Inventories m/m
+UID:138e564c-444c-4746-8291-19dca47a0981@138e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  RBA Assist Gov Kent Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T205000Z
+SUMMARY:RBA Assist Gov Kent Speaks
+UID:fcf59c2f-2fd3-4e61-a0b5-aa05f63a71d5@fcf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Core CPI m/m\nPrevious: 0.3%\nForecast: 0.3%\nActual: 
+DURATION:PT1H
+DTSTART:20251024T113000Z
+SUMMARY:Core CPI m/m
+UID:fe20e279-6205-4236-a9d9-b6c72fb46b3b@fe20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  RBA Assist Gov Hunter Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251014T223000Z
+SUMMARY:RBA Assist Gov Hunter Speaks
+UID:5119463f-eed3-4015-a900-d4270353994f@5119.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Flash Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T070000Z
+SUMMARY:Flash Services PMI
+UID:18a3623b-29fb-4cc3-b0de-d17d6d195961@18a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  CB Leading Index m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T143000Z
+SUMMARY:CB Leading Index m/m
+UID:e049284c-e36c-417a-b9f7-5a63505d3e27@e049.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Flash Services PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T073000Z
+SUMMARY:Flash Services PMI
+UID:bae920f3-d15a-448d-8fa7-cd6abe4add8f@bae9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Building Approvals m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251102T233000Z
+SUMMARY:Building Approvals m/m
+UID:fd52d051-92f6-465d-aa3d-ee893706bc26@fd52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Construction Output m/m\nPrevious: 0.2%\nForecast: -0.2%\nActual: 
+DURATION:PT1H
+DTSTART:20251016T050000Z
+SUMMARY:Construction Output m/m
+UID:02b10c72-c58e-4396-8e15-6afca34f4ed1@02b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  CB Leading Index m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251027T120000Z
+SUMMARY:CB Leading Index m/m
+UID:e68b3acb-3ba8-4397-9062-7db7df9b78c9@e68b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  Unemployment Rate\nPrevious: 4.2%\nForecast: 4.3%\nActual: 
+DURATION:PT1H
+DTSTART:20251015T233000Z
+SUMMARY:Unemployment Rate
+UID:c7ba0fb4-b6c7-47f6-a40e-4ba3ab73b20e@c7ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  CB Leading Index m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251111T133000Z
+SUMMARY:CB Leading Index m/m
+UID:5ab3bff2-ba7f-4fad-9787-b3e3fe068d67@5ab3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Current Account\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T070000Z
+SUMMARY:Current Account
+UID:672b7f1f-e23e-45df-af54-e4be78f3b87c@672b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Building Permits m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251112T123000Z
+SUMMARY:Building Permits m/m
+UID:77e4ad0b-f833-4709-98d3-b84f115a482a@77e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  CPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251021T113000Z
+SUMMARY:CPI m/m
+UID:c55b43e7-6652-4ccb-a9e7-d3d41c6a2f74@c55b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Prelim UoM Consumer Sentiment\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T140000Z
+SUMMARY:Prelim UoM Consumer Sentiment
+UID:1a9d38ab-c6ef-467a-b9f0-7f72411cf7b4@1a9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Spanish Flash CPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T070000Z
+SUMMARY:Spanish Flash CPI y/y
+UID:b1b3666e-b2cd-4758-b963-94398b62662a@b1b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Core CPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251021T113000Z
+SUMMARY:Core CPI m/m
+UID:5529f272-6300-4e01-b5df-c72d0aab33cc@5529.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251020
+DESCRIPTION:USD  FOMC Financial Stability Report\nPrevious: \nForecast: \nActual: 
+SUMMARY:FOMC Financial Stability Report
+UID:f75fd59c-bb97-4ebd-b649-fde8cfaf3aeb@f75f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Daylight Saving Time Shift\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251102T050000Z
+SUMMARY:Daylight Saving Time Shift
+UID:2e2f251b-bd65-4f77-9a2f-d26363b7917f@2e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+DESCRIPTION:CNY  M2 Money Supply y/y\nPrevious: \nForecast: \nActual: 
+SUMMARY:M2 Money Supply y/y
+UID:88ca0122-f1d3-4e05-8f5f-8f8928e90fd5@88ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AUD  RBA Press Conference\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251104T033000Z
+SUMMARY:RBA Press Conference
+UID:236c6b4e-f8f9-4caf-8de7-f5df90c86a30@236c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JPY  BOJ Summary of Opinions\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251109T225000Z
+SUMMARY:BOJ Summary of Opinions
+UID:22e5fc19-ad10-4c4a-9e7c-4e0212475234@22e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  ECB President Lagarde Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251018T120000Z
+SUMMARY:ECB President Lagarde Speaks
+UID:9538aa44-326c-4bc1-a2fc-21d13edaf5d9@9538.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CAD  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251107T123000Z
+SUMMARY:Unemployment Rate
+UID:fe7b9e68-0505-458a-a479-93321df53751@fe7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:EUR  German 30-y Bond Auction\nPrevious: 3.25|1.8\nForecast: \nActual: 
+SUMMARY:German 30-y Bond Auction
+UID:622a6d89-2be3-46fa-8c01-9c8434c3aa5d@622a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  Final CPI y/y\nPrevious: 2.2%\nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251017T080000Z
+SUMMARY:Final CPI y/y
+UID:2363319e-615f-48b4-aeaf-ddac449f2931@2363.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  PPI y/y\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251109T003000Z
+SUMMARY:PPI y/y
+UID:724d0790-9970-415f-9148-3e1255ac950f@724d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  RatingDog Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T004500Z
+SUMMARY:RatingDog Manufacturing PMI
+UID:cfd1c451-43fd-4fb0-bd26-003b1d9bb602@cfd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  FOMC Member Schmid Speaks\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251015T173000Z
+SUMMARY:FOMC Member Schmid Speaks
+UID:c998ff03-b176-48e1-be7c-44a473f01141@c998.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:USD  Housing Starts\nPrevious: 1.31M\nForecast: \nActual: 
+SUMMARY:Housing Starts
+UID:39b23f3b-de86-4577-8fb5-f2c5475351b3@39b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Nationwide HPI m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251030T060000Z
+SUMMARY:Nationwide HPI m/m
+UID:7462ce01-028d-487c-95e8-728830e02750@7462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GBP  Construction PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251106T083000Z
+SUMMARY:Construction PMI
+UID:e937bd3d-9606-4cee-ac2b-5df0cf0de7e6@e937.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251018
+DESCRIPTION:GBP  BOE Gov Bailey Speaks\nPrevious: \nForecast: \nActual: 
+SUMMARY:BOE Gov Bailey Speaks
+UID:997f24ec-90a3-4b42-9bb1-caca86323407@997f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CNY  Unemployment Rate\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251020T010000Z
+SUMMARY:Unemployment Rate
+UID:bb1fc3e8-004e-4da6-9abe-05144179d4cb@bb1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EUR  French Final Manufacturing PMI\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251103T075000Z
+SUMMARY:French Final Manufacturing PMI
+UID:9baf7fb6-fcd4-4fba-a6f1-5b6308063b47@9baf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  New Home Sales\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251024T130000Z
+SUMMARY:New Home Sales
+UID:8207ab1b-40ea-4076-95a8-40dfd466ca76@8207.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:USD  Core PCE Price Index m/m\nPrevious: \nForecast: \nActual: 
+DURATION:PT1H
+DTSTART:20251031T113000Z
+SUMMARY:Core PCE Price Index m/m
+UID:b7ef5e21-70b0-4e98-89d4-b281ecec96c9@b7ef.org
 END:VEVENT
 END:VCALENDAR
